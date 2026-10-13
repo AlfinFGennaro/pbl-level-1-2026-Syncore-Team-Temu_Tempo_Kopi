@@ -42,7 +42,7 @@
 7. Mengkomunikasikan hambatan maupun perbedaan pendapat secara terbuka dan saling membantu dan mengkoreksi atau menegur antar anggota tanpa saling menyalahkan apabila memang ada anggota yang melakukan kesalahan.
 8. Setiap anggota wajib memahami secara menyeluruh materi, alur kerja, dan hasil kesepakatan diskusi pada setiap tahapan proyek (bukan sekadar mengerjakan porsi bagiannya saja).
 9. Wajib mencatat dan merekam atau menulis setiap instruksi (prompt) AI yang digunakan pada lembar TPL-07 secara jujur dan transparan oleh semua anggota.
-10. Tidak diperbolehkan mengumpulkan atau mengklaim hasil AI secara mentah-mentah (copy-paste) tanpa adanya pemahaman, pengertian mendasar, serta penyesuaian dengan konteks objek studi atau proyek yang sedang diobservasi (Korelasi Coffee).
+10. Tidak diperbolehkan mengumpulkan atau mengklaim hasil AI secara mentah-mentah (copy-paste) tanpa adanya pemahaman, pengertian mendasar, serta penyesuaian dengan konteks objek studi atau proyek yang sedang diobservasi (Temu Tempo Kopi).
 
 ### Cara Menyelesaikan Konflik
 
@@ -65,7 +65,7 @@
 ## Checklist
 
 - [x] Tim terbentuk 3–4 orang
-- [ ] Objek studi terpilih dari daftar aman
+- [x] Objek studi terpilih dari daftar aman
 - [x] Jadwal rotating phase lead disepakati (semua memimpin minimal satu fase)
 - [x] Norma tim disepakati dan disetujui semua anggota
 - [ ] Salinan norma tim disimpan di GitHub (`docs/evidence/E5-meeting-log.md`)
