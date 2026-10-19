@@ -1,22 +1,23 @@
-# [Syncore Team] — Digital Problem Framing Mini Project
+# Syncore Team — Digital Problem Framing Mini Project
 
 ## Tim
 
-| Ananta Rizqi Fadhlurrohman | 2600016011 | Discover, Reflect |
+| Nama | NIM | Phase Lead untuk Fase |
 |---|---|---|
-| [Muhammad Rasikh Zakki Aufa] | [2600016028] | Frame, Test |
-| [Muhammad Dhiyyaudin Nur] | [2600016008] | Build |
-| [Satria Arya Prathama] | [2600016023] | Define, Design |
-| [Alfin Farrel Gennaro] | [2600016046] | Communicate |
+| Ananta Rizqi Fadhlurrohman | 2600016011 | Discover, Reflect |
+| Muhammad Rasikh Zakki Aufa | 2600016028 | Frame, Test |
+| Muhammad Dhiyauddin Nur | 2600016008 | Build |
+| Satria Ariya Prathama | 2600016023 | Define, Design |
+| Alfin Farrel Gennaro | 2600016046 | Communicate |
 
 > **Aturan**: Tim memakai **rotating phase lead** — tidak ada peran permanen. Setiap anggota memimpin minimal satu fase. Jadwal fase awal ditetapkan di WS01 dan dapat disesuaikan sepanjang semester.
 
 ## Objek Studi
 
-- **Nama Unit Usaha**: [Korelasi Coffee]
-- **Lokasi**: [Jl. Patih Singoranu No.155, Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191]
-- **Pemilik**: [Jasmine,+6281584627372]
-- **Jenis Usaha**: [Coffee Shop / Kafe]
+- **Nama Unit Usaha**: Temu Tempo Kopi
+- **Lokasi**: Jl. Singoranu No.87, Kragilan, Sorosutan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55162
+- **Pemilik**: Mas Joy (+62882008806986)
+- **Jenis Usaha**: Kedai Kopi / Ruang Kreatif (Food & Beverage)
 
 ## Driving Question
 
@@ -92,7 +93,7 @@ Seluruh penggunaan AI tercatat di `docs/evidence/E3-ai-disclosure.md` → bagian
 
 ## Referensi
 
-- [Buku Petunjuk PjBL Level 1 (Revisi 3)](../pbl_guidebook_for_student_revisi_3.md)
-- [Worksheet Book](../worksheet_book.md)
-- [Template Pack](../template_pack.md)
-- [Assessment Rubrics](../assessment_rubrics.md)
+- [Panduan Mahasiswa (Buku Petunjuk PjBL Level 1 Revisi 3)](../docs/PANDUAN_MAHASISWA.md)
+- [Worksheet Book](../docs/WORKSHEET_BOOK.md)
+- [Template Pack](../docs/TEMPLATE_PACK.md)
+- [Assessment Rubrics](../docs/ASSESSMENT_RUBRICS.md)

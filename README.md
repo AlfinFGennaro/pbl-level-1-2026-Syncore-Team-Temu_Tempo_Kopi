@@ -1,14 +1,32 @@
-# PjBL Level 1 -- Digital Problem Framing Mini Project
+# PBL Level 1 — Syncore Team (Temu Tempo Kopi)
 
-Buku petunjuk Project-Based Learning (PjBL) untuk mahasiswa Semester 1 Program Studi Sistem Informasi.
+Repository Project-Based Learning (PBL) Level 1 untuk mahasiswa Semester 1 Program Studi Sistem Informasi, Universitas Ahmad Dahlan.
+
+## Identitas Proyek & Tim
+
+- **Nama Tim**: Syncore Team (Kelas A)
+- **Mitra UMKM**: Temu Tempo Kopi
+- **Narahubung Mitra**: Mas Joy (+62882008806986)
+- **Alamat Mitra**: Jl. Singoranu No.87, Kragilan, Sorosutan, Kec. Umbulharjo, Kota Yogyakarta, D.I. Yogyakarta 55162
+- **Fokus Masalah**: Simplifikasi dan efisiensi rekapitulasi data transaksi penjualan, pemisahan arus kas (*cash flow*) transaksi bisnis dan pribadi, serta penyediaan dasbor visualisasi penjualan menu (kopi & makanan).
+
+### Anggota Tim & Peran
+
+| Nama | NIM | Tanggung Jawab / Phase Lead |
+|---|---|---|
+| Ananta Rizqi Fadhlurrohman | 2600016011 | Liaison / Phase Lead Discover & Reflect |
+| Muhammad Rasikh Zakki Aufa | 2600016028 | Phase Lead Frame & Test |
+| Muhammad Dhiyauddin Nur | 2600016008 | Phase Lead Build |
+| Satria Ariya Prathama | 2600016023 | Phase Lead Define & Design |
+| Alfin Farrel Gennaro | 2600016046 | Phase Lead Communicate |
 
 ## Tentang Proyek
 
 Proyek **Digital Problem Framing Mini Project** adalah kesempatan mahasiswa untuk:
 
-1. Mengunjungi unit usaha nyata (kantin, warung, koperasi) di sekitar kampus
-2. Memahami masalah yang mereka hadapi
-3. Merancang solusi sederhana berbasis program
+1. Mengunjungi unit usaha nyata (kantin, warung, koperasi, kedai kopi) di sekitar kampus
+2. Memahami masalah operasional nyata yang mereka hadapi
+3. Merancang solusi sederhana berbasis sistem informasi & program
 4. Membangun prototipe program konsol (CLI)
 5. Mempresentasikan hasil ke pemilik usaha
 6. Membangun portofolio digital pertama di LinkedIn
@@ -31,17 +49,16 @@ Proyek **Digital Problem Framing Mini Project** adalah kesempatan mahasiswa untu
 
 > Beberapa dokumen di `docs/` masih menyebut dokumen internal yang belum dipublikasikan di repository ini (contoh: `learning_spine`, `instructor_guide`, `project_guide_level_1`, dan dokumen shared). Nama dokumen tersebut ditulis dalam backtick sebagai referensi, bukan tautan. Hubungi koordinator bila diperlukan versi yang dapat dibagikan.
 
-## Starter Pack
+## Starter Pack & Pengerjaan Proyek
 
-Clone starter pack untuk memulai proyek:
+Seluruh artefak pengerjaan proyek tim (dokumen deliverable, lembar kerja worksheet, dan kode prototipe) berada di dalam direktori [`starter-pack/`](starter-pack/):
 
 ```bash
-git clone [URL_REPO]
-cd [nama-repo]
-python src/main.py   # coba jalankan program awal
+cd starter-pack
+python src/main.py   # menjalankan prototipe awal
 ```
 
-Lihat [starter-pack/README.md](starter-pack/README.md) untuk panduan lengkap.
+Lihat [starter-pack/README.md](starter-pack/README.md) untuk profil proyek dan progres deliverable tim.
 
 ## Struktur Repository
 

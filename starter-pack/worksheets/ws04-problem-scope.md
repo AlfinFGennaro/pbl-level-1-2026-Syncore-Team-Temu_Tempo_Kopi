@@ -41,33 +41,23 @@ _Pada aspek keuangan, belum terintegrasi secara otomatis antara data aplikasi ka
 
 Untuk mencegah terjadinya pembengkakan fitur (_Scope Creep_) yang membahayakan penyelesaian proyek dalam 1 semester, tentukan secara tegas apa yang **Masuk Cakupan (_In-Scope_)** dan apa yang **Di Luar Cakupan (_Out-of-Scope_)**:
 
- ┌───────────────────────────────────────────┐
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                       SYSTEM BOUNDARY (BATASAN SISTEM)                      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ [ IN-SCOPE: Fitur yang Akan Dibangun ]                                      │
+│ 1. Simplifikasi rekapitulasi data transaksi penjualan harian.               │
+│ 2. Modul pemisah pencatatan transaksi bisnis vs pribadi (arus kas/cashflow).│
+│ 3. Dasbor visualisasi produk terjual & grafik perbandingan kopi vs makanan. │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ [ OUT-OF-SCOPE: Di Luar Cakupan Proyek ]                                    │
+│ 1. Pembuatan atau perombakan total aplikasi kasir utama (POS).              │
+│ 2. Otomasi pemesanan stok ke supplier luar (auto-order biji kopi).          │
+│ 3. Integrasi payment gateway / QRIS otomatis langsung ke perbankan.         │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-│ SYSTEM BOUNDARY (BATASAN SISTEM) │
-
-│ │
-
-│ \[ IN-SCOPE: Fitur yang Akan Dibangun \] │
-
-│ 1. Mempermudah mitra dalam rekapitulisasi data transaksi. │
-
-│ 2. Modul pemisah transaksi antara transaksi bisnis dan pribadi untuk menjaga arus kas (cash flow). │
-
-│ 3. Dasbor visulisasi penjualan,dapat berupa grafik produk terjual / perbandingan penjualan kopi dan makanan. │
-
-│─────────────────────────────────────────── │
-
-│ │
-
-│ \[ OUT-OF-SCOPE: Di Luar Cakupan Proyek \] │
-
-│ 1. Pengubahan / pembuatan ulang aplikasi kasir utama (POS). │
-
-│ 2. Pemesanan stok secara otomatis (auto order) ke supplier luar atau supplier bahan baku (biji kopi). │
-
-│ 3. Integrasi payment gateway / QRIS otomatis di dalam spreadsheet. │ └────────────────────────────────────────────┘
-
-### **Tabel Penegasan Cakupan Proyek (*Scope Alignment Table*)**
+### **Tabel Penegasan Cakupan Proyek (*Scope Alignment Table*)**
 
 | **No** | **Modul / Fitur Sistem**                                                          | **Status Cakupan (_In-Scope / Out-of-Scope_)** | **Alasan Pertimbangan Kelayakan (O'Brien)**                                                                                                                                                                                                    |
 | ------ | --------------------------------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -93,20 +83,18 @@ Tentukan target kuantitatif perbaikan yang ingin dicapai melalui solusi sistem i
 ### **A. Pertanyaan Refleksi Tim**
 
 1. _Bagaimana tim memastikan bahwa batasan proyek yang ditetapkan realistis untuk diselesaikan dalam 16 minggu?_
-   - **Jawab**: \[ Jelaskan analisis kelayakan teknis dan kemampuan tim \]
+   - **Jawab**: Tim menerapkan prinsip *Problem Framing* dan kerangka kelayakan O'Brien dengan membatasi ruang lingkup pada masalah operasional yang paling mendesak, yaitu efisiensi rekapitulasi data penjualan harian/mingguan dan pemisahan pencatatan kas bisnis vs pribadi. Fitur-fitur berisiko tinggi seperti pembuatan aplikasi POS baru dari awal, integrasi *payment gateway*, dan otomasi supplier secara tegas dinyatakan *Out-of-Scope*. Dengan memfokuskan solusi pada pengolahan data pasca-transaksi dan penyajian dasbor analitik berbasis spreadsheet/Python konsol sederhana, alokasi waktu 16 minggu sangat realistis untuk diselesaikan hingga tahap pengujian UAT mitra.
 2. _Apakah pemilik usaha mitra telah menyetujui batasan sistem yang diusulkan oleh kelompok?_
-   - **Jawab**: \[ Jelaskan hasil konfirmasi awal ke mitra \]
+   - **Jawab**: Ya, pemilik usaha (Mas Joy) telah menyetujui batasan sistem ini dalam sesi wawancara dan observasi lapangan. Pemilik sangat mendukung pembuatan alat bantu rekapitulasi penjualan serta modul pemisahan keuangan bisnis dan pribadi yang selama ini menyita waktu libur operasional hari Minggunya, tanpa harus merombak aplikasi kasir yang saat ini sudah berjalan.
 
 ### **B. Tanda Tangan Pengesahan Phase Lead 2**
 
-Disusun oleh Phase Lead 2 (Frame): \[ Nama Mahasiswa B — NIM \]
+Disusun oleh Phase Lead 2 (Frame): Muhammad Rasikh Zakki Aufa — 2600016028
 
 ```
-Tanggal Penyusunan: [ 14 Oktober 2026 ]
+Tanggal Penyusunan: 14 Oktober 2026
 Tanda Tangan Phase Lead 2: ____________________
 Diverifikasi oleh Dosen Pengampu / Coach:
 Tanggal: [ Tanggal ] | Status Checkpoint: [ APPROVED / REVISION NEEDED ]
 Catatan Dosen: __________________________________________________
 ```
-
-

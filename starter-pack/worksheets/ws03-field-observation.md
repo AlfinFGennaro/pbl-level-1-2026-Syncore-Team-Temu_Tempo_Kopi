@@ -53,10 +53,10 @@ Gunakan lembar ini saat berada di lokasi mitra untuk mencatat secara kronologis 
 
 ### **A. Pemetaan Alur Transaksi As-Is (Kronologis Kronik)**
 
-- **Langkah 1 (Input Pesanan)**: \[ Catat bagaimana kasir menerima pesanan dan menuliskan nota \]
-- **Langkah 2 (Kalkulasi & Pembayaran)**: \[ Catat alat bantu hitung dan cara penerimaan uang/kembalian \]
-- **Langkah 3 (Penyerahan Barang)**: \[ Catat alur penyerahan produk ke pelanggan \]
-- **Langkah 4 (Pencatatan Stok & Rekap)**: \[ Catat alur pengisian buku stok dan rekapitulasi harian \]
+- **Langkah 1 (Input Pesanan)**: Pelanggan mendatangi meja kasir/bar, lalu kasir (pemilik/staf) mencatat pesanan menu minuman atau makanan yang dipesan. Saat antrean normal, pesanan dimasukkan ke aplikasi kasir smartphone/tablet, namun pada saat jam sibuk (*peak hour*) dengan rombongan pelanggan datang bersamaan, pesanan sering dicatat manual terlebih dahulu di nota kertas untuk mempercepat antrean.
+- **Langkah 2 (Kalkulasi & Pembayaran)**: Kasir mengalkulasikan total harga pesanan. Pelanggan melakukan pembayaran melalui metode non-tunai (scan QRIS) atau tunai (cash). Untuk pembayaran tunai, kasir menghitung uang kembalian secara manual dari laci kasir.
+- **Langkah 3 (Penyerahan Barang)**: Pemilik atau barista meracik minuman/makanan di bar. Setelah pesanan selesai dibuat, kasir/barista memanggil pelanggan atau mengantarkannya langsung ke meja pelanggan.
+- **Langkah 4 (Pencatatan Stok & Rekap)**: Tidak ada pencatatan pengurangan stok bahan baku secara harian (hanya mengandalkan ingatan pemilik). Rekapitulasi transaksi penjualan tidak dilakukan setiap hari saat tutup toko, melainkan ditumpuk dan direkap secara manual satu per satu dari aplikasi kasir ke Microsoft Excel setiap hari Minggu (pada saat hari libur operasional kedai).
 
 ### **B. Tabel Pengumpulan Data Kuantitatif Sederhana (Evidence)**
 
@@ -78,18 +78,17 @@ Gunakan lembar ini saat berada di lokasi mitra untuk mencatat secara kronologis 
 
 ### **B. Tanda Tangan Komitmen Tim & Pengesahan**
 
-Disusun oleh Tim Kelompok: \[ Syncore Team \]
+Disusun oleh Tim Kelompok: Syncore Team
 
 ```
-Tanggal Observasi: [ 12 Oktober 2026 ]
+Tanggal Observasi: 12 Oktober 2026
 1. Muhammad Rasikh Zakki Aufa: ____________________ ( Tanda Tangan )
 2. Ananta Rizqi Fadhlurrohman: ____________________ ( Tanda Tangan )
 3. Muhammad Dhiyauddin Nur   : ____________________ ( Tanda Tangan )
 4. Satria Ariya Prathama     : ____________________ ( Tanda Tangan )
 5. Alfin Farrel Gennaro      : ____________________ ( Tanda Tangan )
+
 Diverifikasi oleh Dosen/Coach:
 Tanggal: [ Tanggal ] | Status: [ Approved / Revision Needed ]
 Catatan Dosen: __________________________________________________
 ```
-
-
