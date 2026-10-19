@@ -49,13 +49,11 @@ Untuk mencegah terjadinya pembengkakan fitur (_Scope Creep_) yang membahayakan p
 
 │ \[ IN-SCOPE: Fitur yang Akan Dibangun \] │
 
-│ 1. Sinkronisasi dan penarikan data transaksi secara otomatis dari aplikasi kasir ke spreadsheet. │
+│ 1. Mempermudah mitra dalam rekapitulisasi data transaksi. │
 
 │ 2. Modul pemisah transaksi antara transaksi bisnis dan pribadi untuk menjaga arus kas (cash flow). │
 
 │ 3. Dasbor visulisasi penjualan,dapat berupa grafik produk terjual / perbandingan penjualan kopi dan makanan. │
-
-│ 4. Modul Rekapitulasi Laporan Penjualan dan ringkasan stok harian / mingguan secara otomatis. │
 
 │─────────────────────────────────────────── │
 
