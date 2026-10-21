@@ -1,137 +1,113 @@
-# WS07 — Simple Solution Design (IPO, Flowchart & Pseudocode)
+# **WORKBOOK: LEMBAR KERJA MAHASISWA (WS07)**
 
-**Worksheet Number**: WS07  
-**Title**: Desain Solusi Sederhana (Input-Proses-Output, Flowchart & Pseudocode)  
-**Mata Kuliah**: Konsep Sistem Informasi (KSI) & Dasar Pemrograman  
-**Kerangka Kerja**: Project-Based Learning (PBL) Level 1  
-**Learning Moment**: Design (Minggu 5–7)  
-**Penanggung Jawab Fase**: Phase Lead 4 (Design — Satria Ariya Prathama)  
-**Tujuan**: Merancang alur logika solusi sederhana secara terstruktur sebelum penulisan kode program dimulai.  
-**Related Learning Outcome**: CPMK-01; Sub-CPMK S-01.1, S-03.1 (I); SFIA PROG L1.  
-**Related Deliverable**: D2 (bagian desain) → fondasi D3.  
-**Related Module**: M06.  
+## **Simple Solution Design — IPO, Flowchart & Pseudocode**
 
 ---
 
-## 1. Identifikasi Tim & Objek Proyek
+### **INFORMASI UTAMA**
 
-| Elemen Informasi | Rincian Identitas |
-|---|---|
-| **Nama Kelompok / Kelas** | Syncore Team / Kelas A |
-| **Phase Lead 4 (Design)** | Satria Ariya Prathama — 2600016023 |
-| **Nama UMKM Mitra** | Temu Tempo Kopi |
-| **Pemilik / Kontak Mitra** | Mas Joy / +62882008806986 |
-
----
-
-## 2. Activity
-
-1. Tulis spesifikasi Input-Proses-Output (IPO) untuk modul/fitur utama sistem.
-2. Gambarkan *flowchart* alur program sederhana (Mulai → Input → Proses/Keputusan → Output → Selesai).
-3. Tuliskan *pseudocode* terstruktur untuk setiap alur utama program.
-4. Review desain bersama tim dan siapkan untuk sesi *critique* (WS08).
+* **Mata Kuliah**: Konsep Sistem Informasi (KSI)
+* **Kerangka Kerja**: Project-Based Learning (PBL) Level 1
+* **Learning Moment**: Fase 4: Design (Minggu 5–6)
+* **Sub-CPMK / SFIA**: S-03.1 (Intermediate) | SFIA ARCH L2, DESN L2
+* **Keterkaitan Deliverable**: Sumber utama pembuatan Deliverable D2 (System & Solution Design - TPL-02)
+* **Phase Lead**: Mahasiswa D (Phase Lead 4 — Design)
 
 ---
 
-## 3. Workspace
+### **RUANG KERJA TIM (WORKSPACE)**
 
-### A. Spesifikasi Komponen IPO Fitur Utama
+#### **1. IDENTIFIKASI KELOMPOK & SOLUSI**
 
-- **Input**:
-  - `tanggal_transaksi` (string / datetime)
-  - `kategori_transaksi` ("Bisnis" / "Pribadi")
-  - `nama_item` (string: nama produk minuman / makanan)
-  - `harga_satuan` (float / integer)
-  - `jumlah_terjual` (integer)
-- **Proses**:
-  - Validasi kelengkapan data masukan
-  - Hitung total transaksi: `total = harga_satuan * jumlah_terjual`
-  - Tambahkan baris data baru ke file penyimpanan
-  - Perbarui kalkulasi omzet harian dan saldo kas terpisah
-- **Output**:
-  - Konfirmasi penyimpanan data sukses
-  - Tampilan ringkasan transaksi baru
-  - Laporan rekapitulasi data dan grafik visualisasi menu
+* **Nama Tim**: __________________________________________________
+* **Nama UMKM Mitra**: __________________________________________________
+* **Judul Solusi SI**: __________________________________________________
+* **Phase Lead 4 (Design)**: __________________________________________________
 
-### B. Flowchart Alur Program
+#### **2. PEMETAAN ARSITEKTUR 4 LAPISAN SI (M05)**
 
-*(Simpan file diagram/gambar visual di folder `assets/flowchart-desain.png`)*
+Petakan solusi Anda ke dalam 4 lapisan arsitektur terintegrasi:
 
-```
-[Mulai]
-   │
-   ▼
-[Tampilkan Menu Utama]
-   │
-   ├──▶ 1. Input Transaksi Penjualan ──▶ Pilih Kategori (Bisnis/Pribadi) ──▶ Simpan ke CSV
-   │
-   ├──▶ 2. Lihat Rekap Penjualan     ──▶ Filter Periode & Hitung Total   ──▶ Tampilkan Rekap
-   │
-   ├──▶ 3. Tampilkan Grafik Menu     ──▶ Agregasi Data Penjualan Menu   ──▶ Render Visual
-   │
-   └──▶ 0. Keluar Program
-```
+| Lapisan Arsitektur | Komponen Solusi Tim | Keterangan & Batasan |
+| --- | --- | --- |
+| 1. Process Layer (Alur Kerja To-Be) | __________________________________________________ | Alur transaksi kasir To-Be yang lebih efisien dibanding As-Is. |
+| 2. Data Layer (Struktur Data Logis) | __________________________________________________ | Entitas data: Tabel Menu/Produk, Tabel Transaksi, & Tabel Stok. |
+| 3. Application Layer (Modul Program) | __________________________________________________ | Modul Utama: Login, Input Transaksi, Hitung Total/Diskon, & Rekap. |
+| 4. Infrastructure Layer (Perangkat Fisik) | __________________________________________________ | Hardware: Laptop/Tablet POS; Net: Wi-Fi/4G; OS: Windows/Android. |
 
-### C. Pseudocode Program Utama
+#### **3. SPESIFIKASI IPO (INPUT - PROCESSING - OUTPUT - STORAGE - CONTROL)**
+
+##### **Fitur Fungsional Utama 1: [Tuliskan Nama Fitur, misal: Pencatatan Transaksi Penjualan]**
+
+* **Input**: __________________________________________________
+* **Processing**: __________________________________________________
+* **Output**: __________________________________________________
+* **Storage**: __________________________________________________
+* **Control (Error Handling)**: __________________________________________________
+
+##### **Fitur Fungsional Utama 2: [Tuliskan Nama Fitur, misal: Rekapitulasi Laporan Laba Harian]**
+
+* **Input**: __________________________________________________
+* **Processing**: __________________________________________________
+* **Output**: __________________________________________________
+* **Storage**: __________________________________________________
+* **Control (Error Handling)**: __________________________________________________
+
+#### **4. DIAGRAM ALIR (FLOWCHART) LOGIKA PROGRAM**
+
+Petunjuk: Gambarkan diagram alir terstruktur menggunakan simbol standar (Persegi Panjang = Proses, Belah Ketupat = Keputusan IF-ELSE, Jajar Genjang = Input/Output, Oval = Start/End). Lampirkan hasil gambaran digital/foto kertas A3 di bawah ini.
 
 ```text
-ALGORITMA Pengelolaan_Transaksi_Temu_Tempo
-DEKLARASI:
-    pilihan : integer
-    kategori, nama_item : string
-    harga, jumlah, subtotal : real
-    lanjut : boolean
+[ TEMPELKAN GAMBAR DIAGRAM FLOWCHART DIGITAL / FOTO DRAF A3 DI SINI ]
+```
 
-DESKRIPSI:
-    lanjut <- TRUE
-    SELAMA lanjut = TRUE LAKUKAN
-        TAMPILKAN "=== SISTEM PENCATATAN & REKAP TEMU TEMPO KOPI ==="
-        TAMPILKAN "1. Tambah Transaksi Penjualan"
-        TAMPILKAN "2. Rekap Penjualan & Laporan Kas (Bisnis vs Pribadi)"
-        TAMPILKAN "3. Visualisasi Grafik Penjualan Menu"
-        TAMPILKAN "0. Keluar"
-        INPUT pilihan
+#### **5. PSEUDOCODE TERSTRUKTUR (INDEPENDEN TEKNOLOGI)**
 
-        JIKA pilihan = 1 MAKA
-            INPUT kategori  // "Bisnis" atau "Pribadi"
-            INPUT nama_item, harga, jumlah
-            subtotal <- harga * jumlah
-            SIMPAN_KE_CSV(tanggal_hari_ini, kategori, nama_item, harga, jumlah, subtotal)
-            TAMPILKAN "Data berhasil disimpan!"
-        LAIN JIKA pilihan = 2 MAKA
-            BACA_DATA_CSV()
-            HITUNG_TOTAL_DAN_PISAHKAN_KAS()
-            TAMPILKAN_LAPORAN_REKAP()
-        LAIN JIKA pilihan = 3 MAKA
-            BUAT_GRAFIK_PRODUK_TERLARIS()
-        LAIN JIKA pilihan = 0 MAKA
-            lanjut <- FALSE
-            TAMPILKAN "Terima kasih."
-        LAIN
-            TAMPILKAN "Pilihan tidak valid!"
-        AKHIR JIKA
-    AKHIR SELAMA
-AKHIR ALGORITMA
+Tuliskan kode semu terstruktur (pseudocode) untuk modul logika utama solusi Anda:
+
+```text
+ALGORITMA Transaksi_Kasir_Teguk
+KAMUS DATA:
+   kode_produk, nama_produk : STRING
+   harga, jumlah, subtotal, total_bayar, uang_tunai, kembalian : REAL
+   stok_tersedia : INTEGER
+
+ALUR LOGIKA:
+   START
+   READ kode_produk, jumlah
+   
+   IF stok_tersedia >= jumlah THEN
+      subtotal = harga * jumlah
+      total_bayar = subtotal
+      PRINT total_bayar
+      
+      READ uang_tunai
+      IF uang_tunai >= total_bayar THEN
+         kembalian = uang_tunai - total_bayar
+         stok_tersedia = stok_tersedia - jumlah
+         PRINT "Transaksi Sukses", kembalian
+         UPDATE Tabel_Stok, Tabel_Transaksi
+      ELSE
+         PRINT "ERROR: Uang tunai kurang!"
+      ENDIF
+   ELSE
+      PRINT "ERROR: Stok tidak mencukupi!"
+   ENDIF
+   END
 ```
 
 ---
 
-## 4. Reflection
+### **CHECKLIST REFLEKSI & PENGESAHAN WS07**
 
-- Bagian mana dari rancangan logika alur program yang paling berisiko menimbulkan kesalahan (*bug*) saat implementasi?
-  - **Jawab**: _
-- Bagaimana desain alur ini memastikan pemenuhan kriteria penerimaan yang telah dirumuskan pada WS05?
-  - **Jawab**: _
+* [ ] Arsitektur 4 lapisan SI telah terdefinisi konsisten.
+* [ ] Tabel IPO mencakup kriteria Storage dan Control (penanganan eror).
+* [ ] Flowchart menggambarkan logika percabangan (IF-ELSE) dan perulangan (Loops) tanpa infinite loop.
+* [ ] Pseudocode terstruktur dengan rapi dan independen terhadap bahasa pemrograman.
+* [ ] Form TPL-07 (AI Usage Disclosure & Verification Note) telah dilampirkan.
 
----
-
-## 5. Checklist Kelulusan WS07
-
-- [ ] Spesifikasi Input-Proses-Output (IPO) terdokumentasi lengkap.
-- [ ] Flowchart alur program telah digambar dan disimpan di folder `assets/`.
-- [ ] Pseudocode logika program telah disusun secara terstruktur.
-- [ ] Desain siap dipresentasikan pada sesi *Peer Critique I* (WS08).
-
----
-
-**Status**: ⬜ Draf → ⬜ Review Tim → ⬜ Sesi Critique → ⬜ Final (Gate 1)
+```text
+Tanggal Pengesahan: ____________________
+Tanda Tangan Phase Lead 4 (Design): ____________________
+Tanda Tangan Dosen Pembimbing / Coach: ____________________
+```
