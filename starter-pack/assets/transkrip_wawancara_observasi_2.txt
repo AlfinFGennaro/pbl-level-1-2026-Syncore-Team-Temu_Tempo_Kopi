@@ -1,0 +1,428 @@
+Mas Joy
+"Direkam gak?"
+
+Ananta
+"Direkam kok, aman."
+
+Ananta
+"Jadi gini Mas, kita ini mau mastiin lebih mastiin lagi aja gitu kan. Karena dari data observasi yang kita lakuin, kita mau mastiin lebih lagi aja. Yang pertama itu untuk Mas Joy itu kan rekap transaksinya kan dari aplikasi kasir kan kalau gak salah biasanya pakai ketik ulang satu persatu ke Excel?"
+
+Mas Joy
+"Iya."
+
+Ananta
+"Itu alurnya itu bener-bener... bisa dijelasin gak Mas alurnya itu? Berarti diambil gitu atau..."
+
+Mas Joy
+"Iya diambil. Lebih ke apa ya, di-drag ya bahasanya?"
+
+Satria
+"Iya, itu tuh kayak misal itu kan berarti di aplikasi kasir itu ada..."
+
+Mas Joy
+"Memang udah ada datanya di situ."
+
+Satria
+"Datanya, itu tuh tinggal di-download?"
+
+Mas Joy
+"Tinggal di-download terus dipindahin aja sih."
+
+Satria
+"Iya kan, tinggal di-drag... iya bener di-drag dipindahin."
+
+Mas Joy
+"Iya di-drag, he-eh."
+
+Satria
+"Terus kan bakal tampil tuh data transaksi ya?"
+
+Mas Joy
+"Iya."
+
+Satria
+"Itu tuh ada yang perlu diubah kan ya beberapa hal, apa udah... udah gitu aja?"
+
+Mas Joy
+"Gitu aja sih mas itu, he-eh."
+
+Satria
+"Gitu aja? Berarti gak ada kayak pengubahan tertentu?"
+
+Mas Joy
+"Gak ada."
+
+Satria
+"Dari situ langsung diperhitungkan?"
+
+Mas Joy
+"He-eh."
+
+Satria
+"Buat total cash flow-nya?"
+
+Mas Joy
+"Total... iya segala macem."
+
+Satria
+"Udah, cukup itu aja?"
+
+Mas Joy
+"Cukup itu aja. Cuma untuk evaluasi aja sih sebenernya."
+
+Satria
+"Oh..."
+
+Mas Joy
+"Kayak ya ngeliat margin aja sih lebih tepatnya."
+
+Ananta
+"Terus yang kedua ini Mas, kan proses mindahin sama ngitung Excel itu kan makan waktu. Nah, Masnya itu kurang lebih durasinya itu berapa lama? Kayak sekitar 1 jam tiap... tiap minggu pas hari libur gitu kan?"
+
+Mas Joy
+"Kurang lebih segitu."
+
+Ananta
+"1 jam?"
+
+Mas Joy
+"1 jaman ya."
+
+Ananta
+"kalau lebih dari 1 jam itu gak pernah ya?"
+
+Mas Joy
+"Tergantung sih Mas, kondisional ya."
+
+Ananta
+"Tapi paling cepet berapa Mas?"
+
+Mas Joy
+"Paling cepet... gak tahu ya, ya aku gak gak terlalu yang buru-buru banget."
+
+Ananta
+"Tapi susah gak sih Mas kayak ininya, susah ya? Kayak harus nge-review dari yang hari pertama gitu kan?"
+
+Mas Joy
+"Iya paling kayak gitu. Review semuanya lah pokoknya sampai akhir bulan itu... eh sampai... per minggu kan kalau aku kan."
+
+Satria 
+"Berarti data selama 1 minggu itu kesimpen sampai 1 bulan full, terus 1 bulan tuh di... direkap lagi?"
+
+Mas Joy
+"Direkap total, he-eh. Direkap keseluruhan."
+
+Satria 
+"Nah dalam satu bulan ini Mas, kira-kira miss-nya tuh berapa kali ya? Ada miss?"
+
+Mas Joy
+"Miss-nya lebih ke ini sih Mas, maksudnya... apa ya, kayak misal lagi hectic aja sih. Kayak mungkin ada beberapa transaksi yang seharusnya misal kayak kopi apa nih, jadi ketulisnya ini. Maksudnya biasanya lebih ke gitu-gitu aja."
+
+Satria 
+"Oh, catetan nama kopinya?"
+
+Mas Joy
+"Iya nama-nama kopinya. Cuma kan di kopinya ini kan beda harga kan."
+
+Satria 
+"Oh iya ya."
+
+Mas Joy
+"Nah iya, beda harga itu sih."
+
+Satria 
+"Kalau dari Mas sendiri tahu gak kenapa bisa... penyebab dari kesalahan itu? Faktornya?"
+
+Mas Joy
+"Kalau pas lagi rame aja sih Mas. Kadang kan ke-distract gitu kan."
+
+Satria 
+"Oh pas nyatet di... eh pas nyatet transaksi di aplikasinya itu?"
+
+Mas Joy
+"Iya, he-eh."
+
+Satria 
+"Itu kayak salah Masnya salah ngeklik atau?"
+
+Mas Joy
+"Salah ngeklik biasanya. Karena kan kalau lagi rame kan ke-distract-nya ya sembarang masukin gitu."
+
+Ananta
+"Berarti dari awal itu udah salah input-nya ibaratnya ya?"
+
+Mas Joy
+"Iya, cuman tetep tetep pasti ku apa namanya, cross-check ulang kan. Tapi kan gak menutup kemungkinan ya ada yang memang gak gak keliatan atau gimana kan nanti."
+
+Satria 
+"Berarti di aplikasi kasir itu kita pertama kayak ngeklik menunya dulu?"
+
+Mas Joy
+"He-eh."
+
+Satria 
+"Habis itu kita masukin harganya? Apa harganya sudah tercantum bersama menu?"
+
+Mas Joy
+"Udah udah tercantum."
+
+Satria 
+"Oh tinggal klik menunya nanti udah semua?"
+
+Mas Joy
+"Tinggal klik aja, udah sama harganya."
+
+Mas Joy
+"Cuman kalau di aplikasi kasir itu minusnya apa... gak bisa diedit Mas. Jadi misal ada transaksi yang salah itu dia memang harus dihapus jadi dibuat ulang."
+
+Satria 
+"Oh..."
+
+Mas Joy
+"He-eh, gak bisa diedit kalau di aplikasi kasir. Nah itu agak... agak repot sih sebenernya."
+
+Satria 
+"Iya iya iya."
+
+Ananta
+"Berarti kalau rekap itu berarti Mas ngumpul... rekap harian tuh ngumpulin dari hari Senin tuh Mas kumpulin dulu, Selasa kumpulin dulu, himpun dulu sampai baru sampai hari Minggu nanti baru Mas tinjau ulang lagi, diatur ulang lagi gitu?"
+
+Mas Joy
+"Iya. Cuman tetep kalau untuk cross-check sendiri itu per misal lagi udah senggang nih, habis rame kan, nah pas senggang terus kan kita kan ada pikiran ya maksudnya..."
+
+Satria 
+"Iya."
+
+Mas Joy
+"...ada yang sekiranya miss-miss gitu kan pasti kan ngerasa gitu kan. Paling ya langsung ku cross-check."
+
+Ananta
+"Pertanyaan selanjutnya Mas.kalau misalkan dilihat perminggu ni mas,Kan masnya udah beberapa kali rekap per minggu kan, perbandingan yang beli kopi sama yang pesan makanan berat tu emang jomplangnya, jomplang banget ya mas, kira kira segitu besarnya atau ada catetan real ga?"
+
+Satria 
+"Sama ini tuh yang kemarin itu kan ini ya, apa namanya... miss dari dana pribadi itu karena emang gak ada tempat untuk catat dana pribadi itu, pengeluaran itu ya?" 
+
+Mas Joy 
+"Iya sih, he-eh."
+
+Satria 
+"Itu berarti bener ya yang dulu itu ya?"
+
+Mas Joy 
+"Bener itu. Itu memang sejauh ini yang menjadi permasalahan terbesar ya ya kurang lebih ya itu."
+
+Satria 
+"Jadi tidak ada fasilitas yang... apa ya, untuk mencatat dana pribadi itu ya?"
+
+Mas Joy 
+"Iya."
+
+Ananta
+"Terus balik lagi ke pertanyaan yang tadi Mas. Kan kalau dilihat per minggu kan perbandingan yang beli kopi lebih banyak daripada makanan berat gitu kan. Nah kira-kira tuh emang jomplang banget atau gimana, sama rata-rata berapa porsi makanan yang terjual tiap harinya misal dibanding kopi?" 
+
+Mas Joy
+"Kalau dibilang jomplang banget sih enggak Mas."
+
+Ananta
+"Gak terlalu?"
+
+Mas Joy
+"Mungkin kalau diukur secara perbandingan ya 3 banding 2 lah."
+
+Ananta
+"3 banding 2?"
+
+Mas Joy
+"Iya, gak gak yang jomplang banget."
+
+Ananta
+"Oh... itu per harinya berarti?"
+
+Mas Joy
+"Per harinya iya."
+
+Ananta
+"Terus kalau menurut Mas Joy, kenapa makanan beratnya kurang apa ya... kurang pamorlah sama kopi? Apakah memang tempatnya namanya kedai kopi jadinya orang kalau datang ya pasti minum kopi bukan makan gitu, atau ada alasan lain gitu?"
+
+Mas Joy
+"Mungkin preferensi ya kalau itu balik lagi ya. Kayak kan orang udah punya apa namanya, kalau untuk makan sendiri udah punya referensi kayak misal dia mau ke mana, udah ada tempatnya sendiri. Misal kalau di sini kan specialty-nya kebetulan sejauh ini yang paling best seller itu kan di nasi goreng. Kebanyakan orang ke sini tuh nyarinya nasi goreng atau gak ayam atau apa."
+
+Satria 
+"Nah ini tuh saya mau mastiin lagi Mas, di Excel itu berarti memang masih dalam bentuk tulisan dari data transaksi yang di-upload dari aplikasi kasir, itu tulisan semua berarti? Angka-angka doang?"
+
+Mas Joy
+"Angka-angka doang."
+
+Satria 
+"Tanpa ada grafik visualisasi tertentu yang sempat saya contohin tuh?"
+
+Mas Joy
+"Gak gak paham saya."
+
+Ananta
+"Nah kalau Mas baca angka-angka gitu, cara baca evaluasinya gimana Mas?"
+
+Mas Joy
+"Ya masih ini sih Mas, maksudnya apa ya... dikurang-kurangin aja. Yang penting tahu lah misalnya kayak margin di bulan ini dapat sekian-sekian, terus pengeluaran juga sekian, itu lebih ke situ aja arah rekapan bulanannya."
+
+Satria 
+"Berarti margin bulan ini, pengeluaran bulan ini, hasilnya berapa..."
+
+Mas Joy
+"Iya, sama itu kan dikalkulasi juga sama biaya operasional yang keluar kan. Operasional, maintenance, segala macem."
+
+Ananta
+"Sama ini Mas mau tanya, jam berapa aja tempatnya Mas ini tuh peak hour atau lagi rame-ramenya, kurang lebih jam-jam berapa aja?"
+
+Mas Joy
+"Mungkin dari jam makan siang biasanya. Jam 12.00 sampai jam 15.00. Terus biasanya kalau jam-jam segini tuh gak nentu ya, kadang kadang rame kadang ya biasa aja. Kalau yang pasti rame sih malam, habis-habis jam 20.00 gitu."
+
+Satria 
+"Jam 20.00 ke atas itu pasti rame ya kalau malam?"
+
+Mas Joy
+"Biasanya sih iya."
+
+Satria 
+"Hampir tiap hari ya Mas?"
+
+Mas Joy
+"Iya, hampir tiap hari."
+
+Ananta
+"Kalau rame gitu waktu tunggu pesanannya kira-kira berapa lama Mas kalau rame?"
+
+Mas Joy
+"Kalau di kopi sih cepet ya Mas, paling gak nyampe 5 menit. Kalau di minuman khususnya ya gak nyampe 5 menit lah. Cuma kalau di makanan mungkin ya kurang lebih 10 sampai 15 menitan lah."
+
+Ananta
+"Itu kalau lagi rame ya?"
+
+Mas Joy
+"Pas lagi rame segitu."
+
+Ananta
+"Kalau lagi sepi, berati kalau minuman, kurang dari 5 menit?"
+
+Mas Joy
+"Kurang dari 5 menit lah."
+
+Ananta
+"Kalau makanan berarti kurang dari 10 menit?"
+
+Mas Joy
+"Kurang dari 10 menitan."
+
+Ananta
+"Kalau misalkan Masnya pakai Excel itu berarti udah dari awal kedainya berdiri atau..."
+
+Mas Joy
+"Dari pas di sini Mas."
+
+Ananta
+"Oh dari pas di sini ya? Sebelumnya?"
+
+Mas Joy
+"Sebelumnya manual."
+
+Ananta
+"Oh bener-bener pakai nota ya?"
+
+Mas Joy
+"Iya pakai buku nota situ sih."
+
+Ananta
+"Nah kalau sekarang modelnya kalau misal ngerekap bulanan itu bentuknya apa Mas? Nota kah atau bener-bener file Excel aja?"
+
+Mas Joy
+"File Excel aja sih."
+
+Ananta
+"Berarti udah gak pakai buku nota lagi, udah gak ada yang pakai pena? Semuanya udah digital ya?"
+
+Mas Joy
+"Tergantung sih Mas. Kadang kan per harinya itu biasanya ada yang pakai buku ya, karena kan lebih fleksibel. Kalau pakai Excel kan kita harus buka laptop segala macem kan. Nah ya tergantung kondisi aja sebenernya. Cuma tetep per minggu, untuk perekapannya per minggu."
+
+Ananta
+"Berarti kalau masih pakai buku, berarti harian juga ada beberapa yang masih..."
+
+Mas Joy
+"Ada beberapa. Ya tergantung kondisi sebenernya. Mungkin kan kayak lagi ada jaringan bermasalah atau apa, itu kan tetep pakai buku. Tetep apa ya... ya tergantung kondisi."
+
+Ananta
+"Kalau untuk ini Mas, stok barang? Stok barang toko itu bener-bener gak ada catatannya sama sekali berarti?"
+
+Mas Joy
+"Gak ada Mas."
+
+Ananta
+"Gak ada?"
+
+Mas Joy
+"Paling per hari aja."
+
+Satria 
+"Bener-bener melihat kondisi..."
+
+Mas Joy
+"Melihat kondisi."
+
+Ananta
+"Nah kalau Mas Joy ngecek ininya, ngecek bahan bakunya tiap hari tiap apa?"
+
+Mas Joy
+"Tiap hari sih Mas."
+
+Ananta
+"Tiap hari? Berarti sebelum toko buka itu Mas Joy selalu ngecek?"
+
+Mas Joy
+"Pas sebelum tutup lah. Pas malam closingan pasti ngecek dulu."
+
+Ananta
+"Ngecek bahan habis, sekiranya habis apa aja..."
+
+Mas Joy
+"He-eh, dan aku kan nyetoknya juga gak banyak-banyak ya. Apalagi di dapur kan takutnya... yang yang lebih ku takutin itu apa ya, dapur itu kan sensitif ya. Maksudnya kalau misal basi kan udah gak bisa dipakai kan, dan itu bakal bakal masuk ke cost juga."
+
+Satria 
+"Ini gak apa namanya... berkesinambungan gak sama ketidak seimbangan penjualan kopi sama makanan? Kan makanan tuh lebih rendah dibanding penjualan kopi kan, ditakutkan stok-stok bahan makanan bisa basi juga. Nah itu pernah gak apa... bahan makanan itu basi banyak gitu?"
+
+Mas Joy
+"Sejauh ini enggak sih Mas."
+
+Satria 
+"Enggak? Berarti aman ya Mas ya?"
+
+Mas Joy
+"Aman, soalnya kan ada freezer juga ya. Di freezer paling yang yang bukan basi ya, sayur-sayur sih lebih lebih ini. Kalau sayur sih gak gak gak yang apa ya... paling cuma selada doang sama daun bawang ya kalau yang basi tuh. Selebihnya kayak timun apa segala macem kan dia jangka waktu seminggu lah baru basi."
+
+Ananta
+"Berarti alur Masnya itu setiap habis toko tutup, itu nanti Mas Joy bakalan ngecek bahan baku yang Mas Joy punya gitu kan. Nanti kalau misalkan ada yang sekiranya mau kurang mau dibeli, nanti Mas Joy inget aja atau beli keesokannya?"
+
+Mas Joy
+"Dicatet di HP sih."
+
+Ananta
+"Oh dicatet di HP?"
+
+Mas Joy
+"He-eh."
+
+Satria 
+"Apa aja yang mau dibeli terus besok dibeli?"
+
+Mas Joy
+"He-eh."
+
+Ananta
+"Jadi emang gak ada catatan yang gimana-gimana ya untuk stok barangnya?"
+
+Mas Joy
+"Gak ada."
+
+Ananta
+"Udah, cukup itu aja sih Mas kayaknya. Makasih buat Mas Joy waktunya."
+
+Mas Joy
+"Aman-aman."
