@@ -68,8 +68,8 @@
 - [x] Objek studi terpilih dari daftar aman
 - [x] Jadwal rotating phase lead disepakati (semua memimpin minimal satu fase)
 - [x] Norma tim disepakati dan disetujui semua anggota
-- [ ] Salinan norma tim disimpan di GitHub (`docs/evidence/E5-meeting-log.md`)
+- [x] Salinan norma tim disimpan di GitHub (`docs/evidence/E5-meeting-log.md`)
 
 ---
 
-**Status**: ⬜ Selesai
+**Status**: ☑️ Selesai
