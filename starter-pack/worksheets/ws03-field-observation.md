@@ -74,7 +74,7 @@ Gunakan lembar ini saat berada di lokasi mitra untuk mencatat secara kronologis 
 | **Rata-rata Waktu Pelayanan Minuman** | < 5 menit / pesanan | Waktu penyajian minuman kopi maupun non-kopi relatif cepat, baik pada saat kondisi kedai ramai maupun sepi. |
 | **Rata-rata Waktu Pelayanan Makanan Berat** | 10 – 15 menit (jam ramai) / < 10 menit (sepi) | Membutuhkan proses memasak secara mandiri di dapur sehingga waktu tunggu meningkat saat pesanan datang bersamaan. |
 | **Frekuensi & Durasi Rekapitulasi Penjualan** | 1 kali / minggu ($\pm$ 1 jam) | Dilakukan setiap hari Minggu saat libur operasional. Data transaksi kasir dipindahkan ke Excel dan dihitung selisih marginnya secara manual. |
-| **Frekuensi Kesalahan Pencatatan / Selisih** | 1 – 3 kali / minggu | Terjadi akibat salah klik varian produk pada aplikasi kasir saat kondisi kedai ramai (*hectic*), serta keterbatasan aplikasi kasir yang tidak memiliki fitur edit transaksi. |
+| **Frekuensi Kesalahan Pencatatan / Selisih** | 1 – 2 kali / minggu | Terjadi akibat salah klik varian produk pada aplikasi kasir saat kondisi kedai ramai (*hectic*), serta keterbatasan aplikasi kasir yang tidak memiliki fitur edit transaksi. |
 | **Rasio Penjualan Menu (Kopi vs Makanan)** | 3 : 2 per hari | Berdasarkan konfirmasi pemilik, perbandingan volume penjualan harian berada pada rasio 3 minuman berbanding 2 makanan berat (menu makanan terlaris adalah Nasi Goreng). |
 | **Jam Sibuk (Peak Hours)** | 12.00–15.00 WIB & > 20.00 WIB | Kepadatan pengunjung terjadi pada jam makan siang (setelah Dzuhur) serta malam hari (setelah Isya hingga larut malam). |
 
