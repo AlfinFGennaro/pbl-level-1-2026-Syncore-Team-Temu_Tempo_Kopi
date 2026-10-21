@@ -84,7 +84,7 @@ Tentukan target kuantitatif perbaikan yang ingin dicapai melalui solusi sistem i
 ### **A. Pertanyaan Refleksi Tim**
 
 1. _Bagaimana tim memastikan bahwa batasan proyek yang ditetapkan realistis untuk diselesaikan dalam 16 minggu?_
-   - **Jawab**: Tim menerapkan prinsip *Problem Framing* dan kerangka kelayakan O'Brien dengan membatasi ruang lingkup pada masalah operasional yang paling mendesak, yaitu efisiensi rekapitulasi data penjualan harian/mingguan dan pemisahan pencatatan kas bisnis vs pribadi. Fitur-fitur berisiko tinggi seperti pembuatan aplikasi POS baru dari awal, integrasi *payment gateway*, dan otomasi supplier secara tegas dinyatakan *Out-of-Scope*. Dengan memfokuskan solusi pada pengolahan data pasca-transaksi dan penyajian dasbor analitik berbasis spreadsheet/Python konsol sederhana, alokasi waktu 16 minggu sangat realistis untuk diselesaikan hingga tahap pengujian UAT mitra.
+   - **Jawab**: Tim menerapkan prinsip *Problem Framing* dan kerangka kelayakan O'Brien dengan membatasi ruang lingkup pada masalah operasional yang paling mendesak, yaitu efisiensi rekapitulasi data penjualan harian/mingguan dan pemisahan pencatatan kas bisnis vs pribadi. Fitur-fitur berisiko tinggi seperti pembuatan aplikasi POS baru dari awal, integrasi *payment gateway*, dan otomasi supplier secara tegas dinyatakan *Out-of-Scope*. Dengan memfokuskan solusi pada pengolahan data pasca-transaksi dan penyajian dasbor analitik berbasis spreadsheet terstruktur, alokasi waktu 16 minggu sangat realistis untuk diselesaikan hingga tahap pengujian UAT mitra.
 2. _Apakah pemilik usaha mitra telah menyetujui batasan sistem yang diusulkan oleh kelompok?_
    - **Jawab**: Ya, pemilik usaha (Mas Joy) telah menyetujui batasan sistem ini dalam sesi wawancara dan observasi lapangan. Pemilik sangat mendukung pembuatan alat bantu rekapitulasi penjualan serta modul pemisahan keuangan bisnis dan pribadi yang selama ini menyita waktu libur operasional hari Minggunya, tanpa harus merombak aplikasi kasir yang saat ini sudah berjalan.
 
@@ -99,3 +99,24 @@ Diverifikasi oleh Dosen Pengampu / Coach:
 Tanggal: [ Tanggal ] | Status Checkpoint: [ APPROVED / REVISION NEEDED ]
 Catatan Dosen: __________________________________________________
 ```
+
+
+---
+
+## **7. Dokumentasi Proses Diskusi Tim & Metadata Bukti Pengerjaan**
+
+### **A. Metadata & Arsip Bukti Proses Diskusi Tim**
+
+Seluruh bukti visual proses diskusi kelompok dalam perumusan lingkup masalah dan batasan sistem disimpan pada Google Drive dan folder lokal assets sebagai bukti autentik kolaborasi tim:
+
+| No | Jenis Bukti Proses | Nama File / Tautan Berkas | Keterangan Dokumen Bukti |
+|:---:|---|---|---|
+| 1 | **Foto Dokumentasi Diskusi Tim (Problem Framing & Scope)** | [Tautan Google Drive](https://drive.google.com/file/d/19rnISSlrCiLKP37QYFv9CBwdRUbRdj2H/view?usp=sharing) <br> [`foto_diskusi_ws04.jpg`](../assets/foto_diskusi_ws04.jpg) | Dokumentasi fisik pertemuan anggota Syncore Team saat membedah hasil temuan lapangan WS03, memisahkan gejala vs akar masalah, merumuskan *Problem Statement*, dan menyepakati batasan sistem (*In-Scope* vs *Out-of-Scope*). |
+
+---
+
+### **B. Ringkasan Proses Penajaman Masalah & Penentuan Batasan Sistem (Synthesis of Team Deliberation)**
+
+Penyusunan Worksheet 04 ini dilaksanakan melalui serangkaian sesi diskusi intensif oleh seluruh anggota Syncore Team di bawah koordinasi Muhammad Rasikh Zakki Aufa selaku Phase Lead 2 (Frame). Proses perumusan diawali dengan membedah kembali fakta-fakta lapangan yang telah terekam secara komprehensif pada Worksheet 03. Tim melakukan analisis mendalam untuk memisahkan antara gejala permukaan (*symptoms*) yang tampak secara kasat mata dengan akar masalah operasional (*root cause*) yang sebenarnya. Dari hasil diskusi, tim menyimpulkan bahwa kendala operasional yang dialami mitra bukan disebabkan oleh lambatnya pemilik dalam bekerja, melainkan karena beban kerja ganda sebagai *solo operator* (17 jam operasional) yang diperparah oleh keterbatasan aplikasi kasir ponsel yang tidak memiliki fitur edit, ketiadaan formula otomatis pada Microsoft Excel untuk rekapitulasi, serta belum adanya pemisahan antara uang usaha dengan uang pribadi.
+
+Selanjutnya, tim merumuskan Problem Statement kontekstual yang berfokus murni pada hambatan bisnis nyata tanpa melakukan lompatan dini ke solusi teknis tertentu. Dalam menentukan ruang lingkup solusi To-Be, tim menerapkan kerangka evaluasi kelayakan sistem (James A. O'Brien) guna menyaring dan membatasi fitur agar proyek tetap realistis diselesaikan dalam batas waktu 16 minggu perkuliahan. Melalui musyawarah kelompok, tim menyepakati untuk membatasi cakupan (*In-Scope*) pada penyederhanaan rekapitulasi penjualan harian, modul pemisahan pencatatan keuangan pribadi vs bisnis, dan dasbor visualisasi perbandingan menu kopi vs makanan. Sebaliknya, fitur-fitur kompleks yang berisiko tinggi seperti pembuatan aplikasi kasir (POS) baru, otomasi pemesanan bahan baku ke pemasok, dan integrasi gerbang pembayaran perbankan secara tegas diklasifikasikan sebagai *Out-of-Scope*. Keseluruhan proses ini dilakukan secara mandiri melalui konsensus tim demi menghasilkan rumusan masalah yang valid dan terukur sebagai fondasi utama penyusunan Deliverable D1 (*Problem Brief*).
