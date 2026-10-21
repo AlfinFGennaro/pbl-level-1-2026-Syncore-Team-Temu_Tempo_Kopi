@@ -110,7 +110,7 @@ Catatan Dosen: __________________________________________________
 
 ## **6. Bukti Empiris, Transkrip Wawancara & Hasil Jawaban Lapangan**
 
-Bagian ini memuat bukti autentik observasi dan proses pengerjaan lapangan yang dilakukan oleh Syncore Team di Temu Tempo Kopi pada hari Senin, 12 Oktober 2026:
+Bagian ini memuat bukti autentik observasi dan proses pengerjaan lapangan yang dilakukan oleh Syncore Team di Temu Tempo Kopi pada hari Senin, 12 Oktober 2026 dan Rabu, 21 Oktober 2026:
 
 ### **A. Metadata & Arsip Bukti Fisik Lapangan**
 
