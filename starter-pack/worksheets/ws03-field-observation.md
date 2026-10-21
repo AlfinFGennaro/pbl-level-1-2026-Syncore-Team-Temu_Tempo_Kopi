@@ -110,7 +110,7 @@ Catatan Dosen: __________________________________________________
 
 ## **6. Bukti Empiris, Transkrip Wawancara & Hasil Jawaban Lapangan**
 
-Bagian ini memuat bukti autentik observasi dan proses pengerjaan lapangan yang dilakukan oleh Syncore Team di Temu Tempo Kopi pada hari Senin, 12 Oktober 2026:
+Bagian ini memuat bukti autentik observasi dan proses pengerjaan lapangan yang dilakukan oleh Syncore Team di Temu Tempo Kopi pada hari Senin dan rabu, 12 dan 21 Oktober 2026:
 
 ### **A. Metadata & Arsip Bukti Fisik Lapangan**
 
@@ -166,5 +166,5 @@ Tabel di bawah merupakan konsolidasi jawaban narasumber (Mas Joy) atas 10 pertan
 | **6** | **Kesalahan & Selisih Data** | _Seberapa sering terjadi kesalahan pencatatan harga, selisih hitung uang kembalian, atau lupa mencatat transaksi?_ | Terjadi kekeliruan pencatatan berkisar **1–3 kali seminggu** saat kondisi kedai ramai (*hectic*), terutama akibat salah klik varian kopi dengan perbedaan harga, diperparah aplikasi kasir yang tidak memiliki fitur koreksi/edit transaksi. |
 | **7** | **Laporan & Keputusan** | _Laporan penjualan apa saja yang Bapak/Ibu butuhkan setiap minggu/bulan untuk mengambil keputusan bisnis?_ | Laporan visualisasi tren penjualan produk serta perbandingan penjualan minuman kopi terhadap makanan berat (rasio harian saat ini 3:2). Pemilik membutuhkan visualisasi tersebut untuk mengevaluasi strategi promosi dan paket penjualan. |
 | **8** | **Infrastruktur Fisik** | _Fasilitas penunjang apa saja yang disediakan oleh kafe untuk pelanggan (listrik/Wi-Fi/perangkat)?_ | Tersedia jaringan Wi-Fi berkecepatan tinggi, stop kontak pada area meja pelanggan, fasilitas sanitasi, permainan papan (*board game*), buku bacaan, serta integrasi layanan daring melalui platform *ShopeeFood*. |
-| **9** | **Kemampuan Pengguna** | _Apakah pemilik/pengelola terbiasa mengoperasikan aplikasi komputer sederhana atau ponsel pintar?_ | Pemilik sangat terbiasa mengoperasikan smartphone untuk aplikasi kasir dan platform pemesanan daring, serta mampu mengoperasikan komputer jinjing (laptop) untuk Microsoft Excel. |
+| **9** | **Kemampuan Pengguna** | _Apakah pemilik/pengelola terbiasa mengoperasikan aplikasi komputer sederhana atau ponsel pintar?_ | Pemilik sangat terbiasa mengoperasikan smartphone untuk aplikasi kasir dan platform pemesanan daring, serta mampu mengoperasikan laptop untuk Microsoft Excel. |
 | **10** | **Ekspektasi Solusi** | _Ekspektasi apa yang diharapkan oleh pemilik usaha terhadap alat bantu sistem informasi sederhana yang akan dikembangkan?_ | Pemilik mengharapkan solusi yang mampu **menyederhanakan rekapitulasi data penjualan**, menyediakan **modul pemisahan pencatatan keuangan pribadi dan usaha**, serta menampilkan **dasbor grafik visualisasi tren penjualan produk**. |
