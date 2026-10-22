@@ -119,7 +119,7 @@ Seluruh bukti rekaman suara wawancara, transkrip percakapan, dan dokumentasi fot
 > **Catatan Validasi Data Lapangan**: Bukti rekaman audio dan dokumen transkrip Observasi Lanjutan (21 Oktober 2026) dihimpun sebagai langkah validasi empiris lanjutan untuk mengonfirmasi serta menyelaraskan data operasional As-Is pada WS03 (khususnya penyesuaian rasio penjualan menu 3:2, durasi pelayanan, dan alur transfer data kasir-ke-Excel), yang selanjutnya digunakan sebagai dasar perumusan masalah pada WS04.
 
 | No | Jenis Bukti | Tautan Berkas | Keterangan Dokumen Bukti |
-|:---:|---|---|---|
+|:---:|---|---|
 | 1 | **Rekaman Audio Wawancara 1 (Observasi 1)** | (https://drive.google.com/file/d/1eaVmzPrsjU19faEFwceve3qSUR3YTXo1/view?usp=sharing) \| Durasi **00:08:54 (± 9 Menit)**. Kunjungan pertama (12 Okt 2026): profil usaha, konsep vintage, solo operator, dan segmen mahasiswa. |
 | 2 | **Rekaman Audio Wawancara 2 (Observasi 1)** | (https://drive.google.com/file/d/1XvwmxtPOT_-OOrxMhJ0WaGo_oRyiJaWr/view?usp=sharing) \| Durasi **00:15:32 (± 16 Menit)**. Kunjungan pertama (12 Okt 2026): jam operasional, aplikasi kasir, rekap mingguan, dan bahan baku Bumijo. |
 | 3 | **Dokumen Transkrip Teks 1 (Observasi 1)** | [Buka Transkrip Bagian 1 (Google Drive)](https://drive.google.com/file/d/1E62H3o0G60LZ-HuSheDz64x4lwIgM16n/view?usp=sharing) \| [`File Lokal`](../assets/transkrip_wawancara_part1.txt) | Transkrip verbatim tanya-jawab antara tim Syncore dan Mas Joy (Bagian 1, durasi 08:54). |
