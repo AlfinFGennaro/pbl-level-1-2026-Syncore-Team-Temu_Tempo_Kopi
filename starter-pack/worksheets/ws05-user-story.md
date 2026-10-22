@@ -35,7 +35,7 @@ Petakan minimal 3 User Story Utama yang langsung menjawab akar masalah pada D1 /
 #### **User Story 1 (Prioritas Utama / Rekapitulasi Otomatis)**
 
 * **Sebagai (As a)**: Pemilik Temu Tempo Coffe(Mas joy) (misal: Kasir Toko Kelontong)
-* **Saya ingin (I want to)**: Mengunggah rekap data transaksi harian dari aplikasi kasir ke smartphone/tablet agar di rekapitulisai secara otomatis tanpa rumus manual excel. (misal: mencatat transaksi penjualan dengan memilih barang dari daftar dan menghitung total otomatis)
+* **Saya ingin (I want to)**: Mengunggah rekap data transaksi harian dari aplikasi kasir ke spreadsheet dalam halaman transaksi agar di rekapitulisai secara otomatis tanpa rumus manual excel. (misal: mencatat transaksi penjualan dengan memilih barang dari daftar dan menghitung total otomatis)
 * **Sehingga (So that)**: Dalam proses rekapitulasi dapat dilakukan lebih cepat dan mengurangi potensi terjadinya kesalahan dalam menghitung margin. (misal: waktu transaksi berkurang dan tidak terjadi kesalahan hitung uang kembalian)
 
 #### **User Story 2 (Pemisahan Kas Usaha vs Kas Pribadi)**
