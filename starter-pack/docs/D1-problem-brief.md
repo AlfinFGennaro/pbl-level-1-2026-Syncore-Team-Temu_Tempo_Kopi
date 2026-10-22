@@ -25,27 +25,30 @@
 
 ## 3. Batasan Sistem (Scope)
 
-- **Diselesaikan dalam proyek ini**: Automatisai rekapitulasi data transaksi penjualan mingguan dari file csv kasir, Modul pemisahan pencatatan kas operasional bisnis dengan pengeluaran pribadi pemilik sebagai prive, Dashboard evaluasi 
-- **Tidak diselesaikan (dan alasan)**: [di luar cakupan + alasan]
-- **Asumsi yang dipakai**: [asumsi kunci]
+- **Diselesaikan dalam proyek ini**: Automatisai rekapitulasi data transaksi penjualan mingguan dari file csv kasir, Modul pemisahan pencatatan kas operasional bisnis dengan pengeluaran pribadi pemilik sebagai prive, Dasbor evaluasi bisnis otomatis (grafik pemasukan vs pengeluaran, tren penjualan mingguan, DLL) yang otomatis ter update setelah data transaksi diimpor.
+- **Tidak diselesaikan (dan alasan)**: Pembuatan aplikasi kasir (POS) baru: Proses pembuatan yang cukup rumit dan memakan waktu lama, Otomasi pemesanan stok ke supplier: Pasokan biji kopi dibeli putus secara mandiri ke Bumijo saat stok fisik menipis., Integrasi payment gateway / QRIS perbankan otomatis: Memerlukan biaya registrasi perbankan dan izin pihak ketiga yang terlalu rumit untuk proyek mini project semester 1.
+- **Asumsi yang dipakai**: Data transaksi dari aplikasi kasir Pemilik dapat diekspor atau dipindahkan ke spreadsheet dalam format file CSV atau teks.
 
 ## 4. Data Kuantitatif Pendukung
 
 | Indikator | Nilai/Baseline | Sumber Data | Tanggal |
 |---|---|---|---|
-| [mis. waktu layanan rata-rata] | [angka] | [observasi/wawancara] | [DD/MM] |
-| [mis. jumlah transaksi per hari] | [angka] | [observasi] | [DD/MM] |
-| [tambah baris jika perlu] | | | |
+| Durasi Rekapitulasi Mingguan | ± 60 menit (1 jam) setiap hari Minggu | Wawancara Pemilik (Mas Joy) | 12-10-2026 |
+| Durasi Jam Kerja Harian | 17 jam/hari (08.00–01.00 WIB) | Wawancara Pemilik (Mas Joy) | 12-10-2026 |
+| Frekuensi Selisih / Salah Varian | 1–2 kali per minggu saat kedai ramai | Wawancara Pemilik (Mas Joy) | 12-10-2026  |
 
 ## 5. Pernyataan Kebutuhan Awal (ringkasan ke D2)
 
 - Kebutuhan inti yang akan dijawab prototipe: [3–5 butir]
+1. Modul input dan perhitungan rekapitulasi penjualan otomatis dari file csv kasir tanpa kalkulasi manual di Excel.
+2. Modul pencatatan buku kas operasional kedai dengan pencatatan khusus penarikan dana pribadi pemilik (prive).
+3. Dasbor grafik visual untuk memantau performa arus kas (masuk vs keluar), tren omzet, dan evaluasi.
 
 ## 6. Daftar Rujukan / Bukti
 
-- [Observasi lapangan tanggal ...]
-- [Wawancara pemilik tanggal ...]
-- [Dokumen pendukung lainnya]
+- Observasi Lapangan 1: Senin, 12 Oktober 2026 (Rekaman audio part 1 & part 2, transkrip wawancara, foto).
+- Validasi Empiris Lanjutan: Rabu, 21 Oktober 2026 (Rekaman audio observasi 2, transkrip wawancara, foto).
+- Aset Fisik: Tersimpan di folder starter-pack/assets/ dan Google Drive tim.
 
 ---
 
