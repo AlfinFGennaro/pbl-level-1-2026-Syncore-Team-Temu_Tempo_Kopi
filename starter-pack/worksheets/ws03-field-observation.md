@@ -110,19 +110,19 @@ Catatan Dosen: __________________________________________________
 
 ## **6. Bukti Lapangan**
 
-Seluruh bukti rekaman suara wawancara, transkrip percakapan, dan dokumentasi foto observasi disimpan pada Google Drive dan folder lokal assets sebagai bukti autentik:
+Seluruh bukti rekaman suara wawancara, transkrip percakapan, dan dokumentasi foto observasi disimpan pada Google Drive dan folder lokal assets sebagai bukti :
 
 | No | Jenis Bukti | Tautan |
 |:---:|---|---|
-| 1 | **Rekaman Audio Wawancara 1 (Observasi 1)** | [Putar Audio Bagian 1 (Google Drive)](https://drive.google.com/file/d/1eaVmzPrsjU19faEFwceve3qSUR3YTXo1/view?usp=sharing) <br> [File Lokal](../assets/rekaman_wawancara_mitra_part1.mp4) |
-| 2 | **Rekaman Audio Wawancara 2 (Observasi 1)** | [Putar Audio Bagian 2 (Google Drive)](https://drive.google.com/file/d/1XvwmxtPOT_-OOrxMhJ0WaGo_oRyiJaWr/view?usp=sharing) <br> [File Lokal](../assets/rekaman_wawancara_mitra_part2.mp4) |
-| 3 | **Dokumen Transkrip Teks 1 (Observasi 1)** | [Buka Transkrip Bagian 1 (Google Drive)](https://drive.google.com/file/d/1E62H3o0G60LZ-HuSheDz64x4lwIgM16n/view?usp=sharing) <br> [File Lokal](../assets/transkrip_wawancara_part1.txt) |
-| 4 | **Dokumen Transkrip Teks 2 (Observasi 1)** | [Buka Transkrip Bagian 2 (Google Drive)](https://drive.google.com/file/d/12XaS_2BvEyYjdJfFc5dbIM51yC0dd8pj/view?usp=sharing) <br> [File Lokal](../assets/transkrip_wawancara_part2.txt) |
-| 5 | **Rekaman Audio Observasi Lanjutan (Observasi 2)** | [Putar Audio Observasi 2 (Google Drive)](https://drive.google.com/file/d/1Jh6ZoV8gVPJlU8AdB7TnOEsU_J8FPGSu/view?usp=sharing) <br> [File Lokal](../assets/rekaman_wawancara_mitra_observasi_2.mp4) |
-| 6 | **Dokumen Transkrip Teks (Observasi 2)** | [Buka Transkrip Observasi 2 (Google Drive)](https://docs.google.com/document/d/1aF0QXUZq10r_URyVZwUrwOMIKlWwJ0M47zIgNa4JjhE/edit?usp=sharing) <br> [File Lokal](../assets/transkrip_wawancara_observasi_2.txt) |
-| 7 | **Foto Dokumentasi Wawancara (Observasi 1)** | [Buka Foto Wawancara (Google Drive)](https://drive.google.com/file/d/1RXgl349-XDt9vuDVWTWb1XnLIJxCprDp/view?usp=sharing) <br> [File Lokal](../assets/foto_observasi_1.jpg) |
-| 8 | **Foto Dokumentasi Wawancara (Observasi 2)** | [Buka Foto Wawancara (Google Drive)](https://drive.google.com/file/d/1m3auRexxq_3wlrPm-bLfoFK4N0lBVMDd/view?usp=sharing) <br> [File Lokal](../assets/Foto_observasi_2.jpg) |
-| 9 | **Foto Suasana & Fasilitas Kedai** | [Buka Foto Suasana (Google Drive)](https://drive.google.com/file/d/1aKBWDJvRjnFCENYlBLLjPhmQKfcvIj86/view?usp=sharing) <br> [File Lokal](../assets/foto_suasana_kedai.jpg) |
+| 1 | **Rekaman Audio Wawancara 1 (Observasi 1)** | (https://drive.google.com/file/d/1eaVmzPrsjU19faEFwceve3qSUR3YTXo1/view?usp=sharing) |
+| 2 | **Rekaman Audio Wawancara 2 (Observasi 1)** | (https://drive.google.com/file/d/1XvwmxtPOT_-OOrxMhJ0WaGo_oRyiJaWr/view?usp=sharing) |
+| 3 | **Dokumen Transkrip Teks 1 (Observasi 1)** | (https://drive.google.com/file/d/1E62H3o0G60LZ-HuSheDz64x4lwIgM16n/view?usp=sharing) |
+| 4 | **Dokumen Transkrip Teks 2 (Observasi 1)** | (https://drive.google.com/file/d/12XaS_2BvEyYjdJfFc5dbIM51yC0dd8pj/view?usp=sharing) |
+| 5 | **Rekaman Audio Observasi Lanjutan (Observasi 2)** | (https://drive.google.com/file/d/1Jh6ZoV8gVPJlU8AdB7TnOEsU_J8FPGSu/view?usp=sharing) |
+| 6 | **Dokumen Transkrip Teks (Observasi 2)** | (https://docs.google.com/document/d/1aF0QXUZq10r_URyVZwUrwOMIKlWwJ0M47zIgNa4JjhE/edit?usp=sharing) |
+| 7 | **Foto Dokumentasi Wawancara (Observasi 1)** | (https://drive.google.com/file/d/1RXgl349-XDt9vuDVWTWb1XnLIJxCprDp/view?usp=sharing) |
+| 8 | **Foto Dokumentasi Wawancara (Observasi 2)** | (https://drive.google.com/file/d/1m3auRexxq_3wlrPm-bLfoFK4N0lBVMDd/view?usp=sharing) |
+| 9 | **Foto Suasana & Fasilitas Kedai** | (https://drive.google.com/file/d/1aKBWDJvRjnFCENYlBLLjPhmQKfcvIj86/view?usp=sharing) |
 
 ---
 
