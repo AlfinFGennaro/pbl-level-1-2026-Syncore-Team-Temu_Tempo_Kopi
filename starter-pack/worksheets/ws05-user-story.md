@@ -23,7 +23,7 @@
 Dalam tahap Systems Analysis, fokus utama tim adalah menentukan APA (What) yang dibutuhkan pengguna bisnis untuk memecahkan masalahnya, BUKAN BAGAIMANA (How) sistem dibangun secara teknis (Marakas & O'Brien, 2013).
 
 User Story merepresentasikan kebutuhan fungsional dari sudut pandang pengguna bisnis dengan pola:
-$$\text{"], Saya ingin [], Sehingga []"}$$
+$$\text{"Sebagai [], Saya ingin [], Sehingga []"}$$
 Acceptance Criteria (Given-When-Then) mendefinisikan batas kondisi kapan sebuah fitur dinyatakan selesai dan memenuhi syarat penerimaan pengguna (Rainer et al., 2021).
 
 ---
@@ -32,21 +32,21 @@ Acceptance Criteria (Given-When-Then) mendefinisikan batas kondisi kapan sebuah 
 
 Petakan minimal 3 User Story Utama yang langsung menjawab akar masalah pada D1 / WS04:
 
-#### **User Story 1 (Prioritas Utama / Core Feature)**
+#### **User Story 1 (Prioritas Utama / Rekapitulasi Otomatis)**
 
-* **Sebagai (As a)**: Sebagai [Pemilik Temu Tempo Coffe(Mas joy) (misal: Kasir Toko Kelontong)
-* **Saya ingin (I want to)**: Mengunggah rekap data transaksi harian dari aplikasi kasir ke smartphone/tablet agar di rekapitulisai secara otomatis dan evaluasi dalam bentuk grafik. Pemilik juga menginginkan fasilitas untuk mencatat transaksi pribadi(prive). (misal: mencatat transaksi penjualan dengan memilih barang dari daftar dan menghitung total otomatis)
-* **Sehingga (So that)**: Dalam proses rekapitulasi juga evaluasi menjadi mudah dilakukan dan cepat. pemilik juga dapat memantau keuangan dengan lebih spesifik. (misal: waktu transaksi berkurang dan tidak terjadi kesalahan hitung uang kembalian)
+* **Sebagai (As a)**: Pemilik Temu Tempo Coffe(Mas joy) (misal: Kasir Toko Kelontong)
+* **Saya ingin (I want to)**: Mengunggah rekap data transaksi harian dari aplikasi kasir ke smartphone/tablet agar di rekapitulisai secara otomatis tanpa rumus manual excel. (misal: mencatat transaksi penjualan dengan memilih barang dari daftar dan menghitung total otomatis)
+* **Sehingga (So that)**: Dalam proses rekapitulasi dapat dilakukan lebih cepat dan mengurangi potensi terjadinya kesalahan dalam menghitung margin. (misal: waktu transaksi berkurang dan tidak terjadi kesalahan hitung uang kembalian)
 
-#### **User Story 2 (Fitur Manajemen Stok / Data)**
+#### **User Story 2 (Pemisahan Kas Usaha vs Kas Pribadi)**
 
-* **Sebagai (As a)**: __________________________________________________________________ (misal: Pemilik Usaha UMKM)
-* **Saya ingin (I want to)**: ___________________________________________________________ (misal: melihat jumlah stok barang yang tersisa secara real-time dan mendapatkan peringatan stok menipis)
-* **Sehingga (So that)**: ______________________________________________________________ (misal: saya dapat melakukan pemesanan ulang barang tepat waktu sebelum stok habis)
+* **Sebagai (As a)**: Pemilik Temu Tempo Coffe(Mas joy) (misal: Pemilik Usaha UMKM)
+* **Saya ingin (I want to)**: Fasilitas untuk mencatat dan memisahkan keuangan bisnis dengan pribasi sebagai prive. (misal: melihat jumlah stok barang yang tersisa secara real-time dan mendapatkan peringatan stok menipis)
+* **Sehingga (So that)**: Arus kas usaha dapat dipantau secara akurat. (misal: saya dapat melakukan pemesanan ulang barang tepat waktu sebelum stok habis)
 
-#### **User Story 3 (Fitur Pelaporan / Informasi)**
+#### **User Story 3 (Visualisai grafik dalam evaluasi)**
 
-* **Sebagai (As a)**: __________________________________________________________________ (misal: Pemilik Usaha UMKM)
+* **Sebagai (As a)**: Pemilik Temu Tempo Coffe(Mas joy) (misal: Pemilik Usaha UMKM)
 * **Saya ingin (I want to)**: ___________________________________________________________ (misal: melihat ringkasan total pendapatan harian dan daftar 3 barang terlaris)
 * **Sehingga (So that)**: ______________________________________________________________ (misal: saya tidak perlu menghitung nota fisik secara manual selama 1.5 jam setiap malam)
 
