@@ -122,7 +122,6 @@ Seluruh bukti rekaman suara wawancara, transkrip percakapan, dan dokumentasi fot
 | 6 | **Dokumen Transkrip Teks (Observasi 2)** | (https://docs.google.com/document/d/1aF0QXUZq10r_URyVZwUrwOMIKlWwJ0M47zIgNa4JjhE/edit?usp=sharing) |
 | 7 | **Foto Dokumentasi Wawancara (Observasi 1)** | (https://drive.google.com/file/d/1RXgl349-XDt9vuDVWTWb1XnLIJxCprDp/view?usp=sharing) |
 | 8 | **Foto Dokumentasi Wawancara (Observasi 2)** | (https://drive.google.com/file/d/1m3auRexxq_3wlrPm-bLfoFK4N0lBVMDd/view?usp=sharing) |
-| 9 | **Foto Suasana & Fasilitas Kedai** | (https://drive.google.com/file/d/1aKBWDJvRjnFCENYlBLLjPhmQKfcvIj86/view?usp=sharing) |
 
 ---
 

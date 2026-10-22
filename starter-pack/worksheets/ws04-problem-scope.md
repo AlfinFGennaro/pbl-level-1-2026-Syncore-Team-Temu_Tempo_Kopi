@@ -110,4 +110,4 @@ Seluruh bukti visual proses diskusi kelompok dalam perumusan lingkup masalah dan
 
 | No | Jenis Bukti | Tautan |
 |:---:|---|---|
-| 1 | **Foto Dokumentasi Diskusi Tim (Problem Framing & Scope)** | [Tautan Google Drive](https://drive.google.com/file/d/19rnISSlrCiLKP37QYFv9CBwdRUbRdj2H/view?usp=sharing) <br> [File Lokal](../assets/foto_diskusi_ws04.jpg) |
+| 1 | **Foto Dokumentasi Diskusi Tim (Problem Framing & Scope)** | (https://drive.google.com/file/d/19rnISSlrCiLKP37QYFv9CBwdRUbRdj2H/view?usp=sharing) |
