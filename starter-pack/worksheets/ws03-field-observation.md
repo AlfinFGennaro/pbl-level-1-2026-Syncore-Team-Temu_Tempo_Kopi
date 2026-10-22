@@ -110,7 +110,7 @@ Catatan Dosen: __________________________________________________
 
 ## **6. Bukti Lapangan**
 
-Seluruh bukti rekaman suara wawancara, transkrip percakapan, dan dokumentasi foto observasi disimpan pada Google Drive dan folder lokal assets sebagai bukti autentik:
+Seluruh bukti rekaman suara wawancara, transkrip percakapan, dan dokumentasi foto observasi disimpan pada Google Drive dan folder lokal assets sebagai bukti :
 
 | No | Jenis Bukti | Tautan |
 |:---:|---|---|
