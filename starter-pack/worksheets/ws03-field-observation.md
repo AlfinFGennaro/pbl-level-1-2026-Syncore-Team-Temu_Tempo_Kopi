@@ -108,55 +108,25 @@ Catatan Dosen: __________________________________________________
 
 ---
 
-## **6. Bukti Empiris, Transkrip Wawancara & Hasil Jawaban Lapangan**
-
-Bagian ini memuat bukti autentik observasi dan proses pengerjaan lapangan yang dilakukan oleh Syncore Team di Temu Tempo Kopi pada hari Senin, 12 Oktober 2026 dan Rabu, 21 Oktober 2026:
-
-### **A. Metadata & Arsip Bukti Fisik Lapangan**
+## **6. Bukti Lapangan**
 
 Seluruh bukti rekaman suara wawancara, transkrip percakapan, dan dokumentasi foto observasi disimpan pada Google Drive dan folder lokal assets sebagai bukti autentik:
 
-> **Catatan Validasi Data Lapangan**: Bukti rekaman audio dan dokumen transkrip Observasi Lanjutan (21 Oktober 2026) dihimpun sebagai langkah validasi empiris lanjutan untuk mengonfirmasi serta menyelaraskan data operasional As-Is pada WS03 (khususnya penyesuaian rasio penjualan menu 3:2, durasi pelayanan, dan alur transfer data kasir-ke-Excel), yang selanjutnya digunakan sebagai dasar perumusan masalah pada WS04.
-
-| No | Jenis Bukti | Tautan Berkas | Keterangan Dokumen Bukti |
-|:---:|---|---|---|
-| 1 | **Rekaman Audio Wawancara 1 (Observasi 1)** | [Putar Audio Bagian 1 (Google Drive)](https://drive.google.com/file/d/1eaVmzPrsjU19faEFwceve3qSUR3YTXo1/view?usp=sharing) \| [`File Lokal`](../assets/rekaman_wawancara_mitra_part1.mp4) | Durasi **00:08:54 (± 9 Menit)**. Kunjungan pertama (12 Okt 2026): profil usaha, konsep vintage, solo operator, dan segmen mahasiswa. |
-| 2 | **Rekaman Audio Wawancara 2 (Observasi 1)** | [Putar Audio Bagian 2 (Google Drive)](https://drive.google.com/file/d/1XvwmxtPOT_-OOrxMhJ0WaGo_oRyiJaWr/view?usp=sharing) \| [`File Lokal`](../assets/rekaman_wawancara_mitra_part2.mp4) | Durasi **00:15:32 (± 16 Menit)**. Kunjungan pertama (12 Okt 2026): jam operasional, aplikasi kasir, rekap mingguan, dan bahan baku Bumijo. |
-| 3 | **Dokumen Transkrip Teks 1 (Observasi 1)** | [Buka Transkrip Bagian 1 (Google Drive)](https://drive.google.com/file/d/1E62H3o0G60LZ-HuSheDz64x4lwIgM16n/view?usp=sharing) \| [`File Lokal`](../assets/transkrip_wawancara_part1.txt) | Transkrip verbatim tanya-jawab antara tim Syncore dan Mas Joy (Bagian 1, durasi 08:54). |
-| 4 | **Dokumen Transkrip Teks 2 (Observasi 1)** | [Buka Transkrip Bagian 2 (Google Drive)](https://drive.google.com/file/d/12XaS_2BvEyYjdJfFc5dbIM51yC0dd8pj/view?usp=sharing) \| [`File Lokal`](../assets/transkrip_wawancara_part2.txt) | Transkrip verbatim tanya-jawab antara tim Syncore dan Mas Joy (Bagian 2, durasi 15:32). |
-| 5 | **Rekaman Audio Observasi Lanjutan (Observasi 2)** | [Putar Audio Observasi 2 (Google Drive)](https://drive.google.com/file/d/1Jh6ZoV8gVPJlU8AdB7TnOEsU_J8FPGSu/view?usp=sharing) \| [`File Lokal`](../assets/rekaman_wawancara_mitra_observasi_2.mp4) | Durasi **00:13:32 (± 14 Menit)**. Kunjungan validasi kedua (21 Okt 2026): validasi pemindahan data kasir-ke-Excel, konfirmasi masalah dana pribadi, rasio menu 3:2, dan pencatatan stok fisik. |
-| 6 | **Dokumen Transkrip Teks (Observasi 2)** | [Buka Transkrip Observasi 2 (Google Drive)](https://docs.google.com/document/d/1aF0QXUZq10r_URyVZwUrwOMIKlWwJ0M47zIgNa4JjhE/edit?usp=sharing) \| [`File Lokal`](../assets/transkrip_wawancara_observasi_2.txt) | Transkrip verbatim tanya-jawab lengkap antara mahasiswa tim Syncore (Satria, Ananta) dan Mas Joy pada kunjungan validasi kedua (durasi 13:32). |
-| 7 | **Foto Dokumentasi Wawancara (Observasi 1)** | [Buka Foto Wawancara (Google Drive)](https://drive.google.com/file/d/1RXgl349-XDt9vuDVWTWb1XnLIJxCprDp/view?usp=sharing) \| [`File Lokal`](../assets/foto_observasi_1.jpg) | Dokumentasi mahasiswa tim Syncore saat wawancara langsung dengan Mas Joy di meja bar kedai. |
-| 8 | **Foto Dokumentasi Wawancara (Observasi 2)** | [Buka Foto Wawancara (Google Drive)](https://drive.google.com/file/d/1m3auRexxq_3wlrPm-bLfoFK4N0lBVMDd/view?usp=sharing) \| [`File Lokal`](../assets/Foto_observasi_2.jpg) | Dokumentasi mahasiswa tim Syncore saat wawancara langsung dengan Mas Joy di meja bar kedai. |
-| 9 | **Foto Suasana & Fasilitas Kedai** | [Buka Foto Suasana (Google Drive)](https://drive.google.com/file/d/1aKBWDJvRjnFCENYlBLLjPhmQKfcvIj86/view?usp=sharing) \| [`File Lokal`](../assets/foto_observasi_2.jpg) | Dokumentasi area kasir, fasilitas stop kontak, jaringan Wi-Fi, dan dekorasi vintage di kedai. |
+| No | Jenis Bukti | Tautan |
+|:---:|---|---|
+| 1 | **Rekaman Audio Wawancara 1 (Observasi 1)** | [Putar Audio Bagian 1 (Google Drive)](https://drive.google.com/file/d/1eaVmzPrsjU19faEFwceve3qSUR3YTXo1/view?usp=sharing) <br> [File Lokal](../assets/rekaman_wawancara_mitra_part1.mp4) |
+| 2 | **Rekaman Audio Wawancara 2 (Observasi 1)** | [Putar Audio Bagian 2 (Google Drive)](https://drive.google.com/file/d/1XvwmxtPOT_-OOrxMhJ0WaGo_oRyiJaWr/view?usp=sharing) <br> [File Lokal](../assets/rekaman_wawancara_mitra_part2.mp4) |
+| 3 | **Dokumen Transkrip Teks 1 (Observasi 1)** | [Buka Transkrip Bagian 1 (Google Drive)](https://drive.google.com/file/d/1E62H3o0G60LZ-HuSheDz64x4lwIgM16n/view?usp=sharing) <br> [File Lokal](../assets/transkrip_wawancara_part1.txt) |
+| 4 | **Dokumen Transkrip Teks 2 (Observasi 1)** | [Buka Transkrip Bagian 2 (Google Drive)](https://drive.google.com/file/d/12XaS_2BvEyYjdJfFc5dbIM51yC0dd8pj/view?usp=sharing) <br> [File Lokal](../assets/transkrip_wawancara_part2.txt) |
+| 5 | **Rekaman Audio Observasi Lanjutan (Observasi 2)** | [Putar Audio Observasi 2 (Google Drive)](https://drive.google.com/file/d/1Jh6ZoV8gVPJlU8AdB7TnOEsU_J8FPGSu/view?usp=sharing) <br> [File Lokal](../assets/rekaman_wawancara_mitra_observasi_2.mp4) |
+| 6 | **Dokumen Transkrip Teks (Observasi 2)** | [Buka Transkrip Observasi 2 (Google Drive)](https://docs.google.com/document/d/1aF0QXUZq10r_URyVZwUrwOMIKlWwJ0M47zIgNa4JjhE/edit?usp=sharing) <br> [File Lokal](../assets/transkrip_wawancara_observasi_2.txt) |
+| 7 | **Foto Dokumentasi Wawancara (Observasi 1)** | [Buka Foto Wawancara (Google Drive)](https://drive.google.com/file/d/1RXgl349-XDt9vuDVWTWb1XnLIJxCprDp/view?usp=sharing) <br> [File Lokal](../assets/foto_observasi_1.jpg) |
+| 8 | **Foto Dokumentasi Wawancara (Observasi 2)** | [Buka Foto Wawancara (Google Drive)](https://drive.google.com/file/d/1m3auRexxq_3wlrPm-bLfoFK4N0lBVMDd/view?usp=sharing) <br> [File Lokal](../assets/Foto_observasi_2.jpg) |
+| 9 | **Foto Suasana & Fasilitas Kedai** | [Buka Foto Suasana (Google Drive)](https://drive.google.com/file/d/1aKBWDJvRjnFCENYlBLLjPhmQKfcvIj86/view?usp=sharing) <br> [File Lokal](../assets/foto_suasana_kedai.jpg) |
 
 ---
 
-### **B. Ringkasan Poin Penting Hasil Observasi & Wawancara Lapangan**
-
-Berdasarkan rangkaian observasi lapangan dan wawancara mendalam yang telah dilakukan bersama Mas Joy, berikut rangkuman temuan empiris utama:
-
-1. **Pengelolaan Mandiri oleh Pemilik Tunggal (Solo Operator)**:  
-   Temu Tempo Kopi dikelola secara mandiri oleh Mas Joy sebagai pemilik tunggal. Sebelumnya terdapat 3 orang staf karyawan, namun berhenti karena memprioritaskan studi perkuliahan. Saat ini pemilik hanya dibantu oleh satu pekerja paruh waktu dan pasangan pemilik pada jam tertentu. Pemilik menangani peran ganda mulai dari kasir, barista, juru masak, hingga pengelolaan keuangan kedai.
-   
-2. **Jam Operasional & Periode Jam Sibuk (Peak Hours)**:  
-   Kedai beroperasi mulai pukul 08.00 WIB (persiapan sekitar 1 jam) hingga tutup pukul 01.00 WIB dini hari (pesanan terakhir pukul 00.30 WIB). Jam sibuk terjadi pada dua periode utama, yaitu jam makan siang (12.00–15.00 WIB) dan malam hari setelah waktu Isya (> 20.00 WIB) yang hampir selalu ramai setiap hari. Waktu pelayanan minuman berkisar di bawah 5 menit, sedangkan makanan berat berkisar 10–15 menit saat kondisi ramai.
-
-3. **Alur Pencatatan Transaksi & Rekapitulasi Excel**:  
-   Pencatatan transaksi harian menggunakan aplikasi kasir pada smartphone/tablet. Data dari aplikasi kasir diunduh dan dipindahkan (*export/drag*) ke Microsoft Excel seminggu sekali setiap hari Minggu saat libur operasional. Format Excel yang digunakan masih berupa baris angka mentah tanpa formula otomatis, pivot, maupun visualisasi grafik. Pemilik melakukan kalkulasi manual untuk menghitung selisih margin dan arus kas (*cash flow*), yang menyita waktu libur sekitar $\pm$ 1 jam.
-
-4. **Pencatatan Keuangan Pribadi vs Usaha**:  
-   Tercampurnya transaksi pribadi dengan transaksi kedai diakui langsung oleh pemilik sebagai salah satu permasalahan operasional terbesar saat ini, karena belum tersedianya fasilitas atau modul pencatatan terpisah untuk pengeluaran dana pribadi.
-
-5. **Pengelolaan Persediaan Bahan Baku**:  
-   Bahan baku biji kopi (*roast bean*) diperoleh secara beli putus dari unit penyangrai (roastery) di kawasan Bumijo sebanyak $\pm$ 2 kg per minggu dan diambil langsung oleh pemilik. Persediaan bahan makanan disimpan pada *freezer* sehingga meminimalkan risiko pembusukan, dengan bahan yang rentan rusak terbatas pada sayuran segar (selada dan daun bawang). Pemilik melakukan pengecekan fisik setiap malam saat penutupan kedai dan mencatat daftar belanja pada aplikasi ponsel.
-
-6. **Dinamika Penjualan Menu (Kopi vs Makanan)**:  
-   Perbandingan volume penjualan antara produk minuman kopi dan makanan berat berada pada rasio rata-rata 3 : 2 per hari. Produk makanan berat yang paling diminati konsumen adalah Nasi Goreng. Pemilik membutuhkan penyajian data visual perbandingan penjualan menu untuk mengevaluasi produk terlaris dan merancang paket promosi secara lebih terukur.
-
----
-
-### **C. Hasil Jawaban 10 Pertanyaan Wawancara (Berdasarkan Fakta Lapangan)**
+### **Hasil Jawaban 10 Pertanyaan Wawancara (Berdasarkan Fakta Lapangan)**
 
 Tabel di bawah merupakan konsolidasi jawaban narasumber (Mas Joy) atas 10 pertanyaan wawancara terarah:
 
