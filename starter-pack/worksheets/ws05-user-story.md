@@ -12,11 +12,10 @@
 
 ### **1. Identifikasi Kelompok & Rotasi Kepemimpinan**
 
-* **Nama Kelompok**: ________________________________________
-* **Objek UMKM Mitra**: ________________________________________
-* **Phase Lead 3 (Define)**: ________________________________________ (Mahasiswa C)
-* **Anggota Tim**: 1. ___________________  2. ___________________  3. ___________________
-
+* **Nama Kelompok**: Syncore Team
+* **Objek UMKM Mitra**: Temu Tempo Coffe
+* **Phase Lead 3 (Define)**: Satria Ariya Prathama (Mahasiswa C)
+* **Anggota Tim**: 1. Muhammad Rasikh Zakki Aufa, 2. Ananta Rizqi Fadhlurrohman, 3. Muhammad Dhiyauddin Nur, 4. Alfin Farrel Gennaro
 ---
 
 ### **2. Landasan Konseptual: Analisis Sistem "What" vs "How"**
@@ -24,7 +23,7 @@
 Dalam tahap Systems Analysis, fokus utama tim adalah menentukan APA (What) yang dibutuhkan pengguna bisnis untuk memecahkan masalahnya, BUKAN BAGAIMANA (How) sistem dibangun secara teknis (Marakas & O'Brien, 2013).
 
 User Story merepresentasikan kebutuhan fungsional dari sudut pandang pengguna bisnis dengan pola:
-$$\text{"Sebagai [Peran Pengguna], Saya ingin [Kemampuan/Fitur], Sehingga [Manfaat Bisnis Nyata]"}$$
+$$\text{"], Saya ingin [], Sehingga []"}$$
 Acceptance Criteria (Given-When-Then) mendefinisikan batas kondisi kapan sebuah fitur dinyatakan selesai dan memenuhi syarat penerimaan pengguna (Rainer et al., 2021).
 
 ---
@@ -35,9 +34,9 @@ Petakan minimal 3 User Story Utama yang langsung menjawab akar masalah pada D1 /
 
 #### **User Story 1 (Prioritas Utama / Core Feature)**
 
-* **Sebagai (As a)**: __________________________________________________________________ (misal: Kasir Toko Kelontong)
-* **Saya ingin (I want to)**: ___________________________________________________________ (misal: mencatat transaksi penjualan dengan memilih barang dari daftar dan menghitung total otomatis)
-* **Sehingga (So that)**: ______________________________________________________________ (misal: waktu transaksi berkurang dan tidak terjadi kesalahan hitung uang kembalian)
+* **Sebagai (As a)**: Sebagai [Pemilik Temu Tempo Coffe(Mas joy) (misal: Kasir Toko Kelontong)
+* **Saya ingin (I want to)**: Mengunggah rekap data transaksi harian dari aplikasi kasir ke smartphone/tablet agar di rekapitulisai secara otomatis dan evaluasi dalam bentuk grafik. Pemilik juga menginginkan fasilitas untuk mencatat transaksi pribadi(prive). (misal: mencatat transaksi penjualan dengan memilih barang dari daftar dan menghitung total otomatis)
+* **Sehingga (So that)**: Dalam proses rekapitulasi juga evaluasi menjadi mudah dilakukan dan cepat. pemilik juga dapat memantau keuangan dengan lebih spesifik. (misal: waktu transaksi berkurang dan tidak terjadi kesalahan hitung uang kembalian)
 
 #### **User Story 2 (Fitur Manajemen Stok / Data)**
 
