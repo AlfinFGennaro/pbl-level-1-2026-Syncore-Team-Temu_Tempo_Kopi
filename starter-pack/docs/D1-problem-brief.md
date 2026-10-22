@@ -48,6 +48,7 @@
 
 - Observasi Lapangan 1: Senin, 12 Oktober 2026 (Rekaman audio part 1 & part 2, transkrip wawancara, foto).
 - Validasi Empiris Lanjutan: Rabu, 21 Oktober 2026 (Rekaman audio observasi 2, transkrip wawancara, foto).
+- Diskusi WS dan data validasi: Rabu, 21 Oktober 2026 (foto).
 - Aset Fisik: Tersimpan di folder starter-pack/assets/ dan Google Drive tim.
 
 ---
