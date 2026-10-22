@@ -103,20 +103,10 @@ Catatan Dosen: __________________________________________________
 
 ---
 
-## **7. Dokumentasi Proses Diskusi Tim & Metadata Bukti Pengerjaan**
+## **7. Bukti Lapangan**
 
-### **A. Metadata & Arsip Bukti Proses Diskusi Tim**
+Seluruh bukti visual proses diskusi kelompok dalam perumusan lingkup masalah dan batasan sistem disimpan pada Google Drive dan folder lokal assets sebagai bukti autentik:
 
-Seluruh bukti visual proses diskusi kelompok dalam perumusan lingkup masalah dan batasan sistem disimpan pada Google Drive dan folder lokal assets sebagai bukti autentik kolaborasi tim:
-
-| No | Jenis Bukti Proses | Nama File / Tautan Berkas | Keterangan Dokumen Bukti |
-|:---:|---|---|---|
-| 1 | **Foto Dokumentasi Diskusi Tim (Problem Framing & Scope)** | [Tautan Google Drive](https://drive.google.com/file/d/19rnISSlrCiLKP37QYFv9CBwdRUbRdj2H/view?usp=sharing) <br> [`foto_diskusi_ws04.jpg`](../assets/foto_diskusi_ws04.jpg) | Dokumentasi fisik pertemuan anggota Syncore Team saat membedah hasil temuan lapangan WS03, memisahkan gejala vs akar masalah, merumuskan *Problem Statement*, dan menyepakati batasan sistem (*In-Scope* vs *Out-of-Scope*). |
-
----
-
-### **B. Ringkasan Proses Penajaman Masalah & Penentuan Batasan Sistem (Synthesis of Team Deliberation)**
-
-Penyusunan Worksheet 04 ini dilaksanakan melalui serangkaian sesi diskusi intensif oleh seluruh anggota Syncore Team di bawah koordinasi Muhammad Rasikh Zakki Aufa selaku Phase Lead 2 (Frame). Proses perumusan diawali dengan membedah kembali fakta-fakta lapangan yang telah terekam secara komprehensif pada Worksheet 03. Tim melakukan analisis mendalam untuk memisahkan antara gejala permukaan (*symptoms*) yang tampak secara kasat mata dengan akar masalah operasional (*root cause*) yang sebenarnya. Dari hasil diskusi, tim menyimpulkan bahwa kendala operasional yang dialami mitra bukan disebabkan oleh lambatnya pemilik dalam bekerja, melainkan karena beban kerja ganda sebagai *solo operator* (17 jam operasional) yang diperparah oleh keterbatasan aplikasi kasir ponsel yang tidak memiliki fitur edit, ketiadaan formula otomatis pada Microsoft Excel untuk rekapitulasi, serta belum adanya pemisahan antara uang usaha dengan uang pribadi.
-
-Selanjutnya, tim merumuskan Problem Statement kontekstual yang berfokus murni pada hambatan bisnis nyata tanpa melakukan lompatan dini ke solusi teknis tertentu. Dalam menentukan ruang lingkup solusi To-Be, tim menerapkan kerangka evaluasi kelayakan sistem (James A. O'Brien) guna menyaring dan membatasi fitur agar proyek tetap realistis diselesaikan dalam batas waktu 16 minggu perkuliahan. Melalui musyawarah kelompok, tim menyepakati untuk membatasi cakupan (*In-Scope*) pada penyederhanaan rekapitulasi penjualan harian, modul pemisahan pencatatan keuangan pribadi vs bisnis, dan dasbor visualisasi perbandingan menu kopi vs makanan. Sebaliknya, fitur-fitur kompleks yang berisiko tinggi seperti pembuatan aplikasi kasir (POS) baru, otomasi pemesanan bahan baku ke pemasok, dan integrasi gerbang pembayaran perbankan secara tegas diklasifikasikan sebagai *Out-of-Scope*. Keseluruhan proses ini dilakukan secara mandiri melalui konsensus tim demi menghasilkan rumusan masalah yang valid dan terukur sebagai fondasi utama penyusunan Deliverable D1 (*Problem Brief*).
+| No | Jenis Bukti | Tautan |
+|:---:|---|---|
+| 1 | **Foto Dokumentasi Diskusi Tim (Problem Framing & Scope)** | [Tautan Google Drive](https://drive.google.com/file/d/19rnISSlrCiLKP37QYFv9CBwdRUbRdj2H/view?usp=sharing) <br> [File Lokal](../assets/foto_diskusi_ws04.jpg) |
