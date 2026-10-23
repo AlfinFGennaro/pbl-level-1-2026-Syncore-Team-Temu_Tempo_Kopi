@@ -12,10 +12,10 @@
 
 ### **1. Identifikasi Kelompok & Rotasi Kepemimpinan**
 
-* **Nama Kelompok**: ________________________________________
-* **Objek UMKM Mitra**: ________________________________________
-* **Phase Lead 3 (Define)**: ________________________________________ (Mahasiswa C)
-* **Anggota Tim**: 1. ___________________  2. ___________________  3. ___________________
+* **Nama Kelompok**:Syncore Team
+* **Objek UMKM Mitra**: Temu Tempo Kopi
+* **Phase Lead 3 (Define)**: Satria Ariya Prathama (Mahasiswa C)
+* **Anggota Tim**: Ananta Rizqi Fadhlurrohman, Muhammad Rasikh Zakki Aufa, Muhammad Dhiyauddin Nur, Alfin Farrel Gennaro
 
 ---
 
