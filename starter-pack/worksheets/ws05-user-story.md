@@ -13,7 +13,7 @@
 ### **1. Identifikasi Kelompok & Rotasi Kepemimpinan**
 
 * **Nama Kelompok**: Syncore Team
-* **Objek UMKM Mitra**: Temu Tempo Coffe
+* **Objek UMKM Mitra**: Temu Tempo kopi
 * **Phase Lead 3 (Define)**: Satria Ariya Prathama (Mahasiswa C)
 * **Anggota Tim**: 1. Muhammad Rasikh Zakki Aufa, 2. Ananta Rizqi Fadhlurrohman, 3. Muhammad Dhiyauddin Nur, 4. Alfin Farrel Gennaro
 ---
