@@ -100,14 +100,3 @@ Diverifikasi oleh Dosen Pengampu / Coach:
 Tanggal: [ Tanggal ] | Status Checkpoint: [ APPROVED / REVISION NEEDED ]
 Catatan Dosen: __________________________________________________
 ```
-
-
----
-
-## **7. Bukti Lapangan**
-
-Seluruh bukti visual proses diskusi kelompok dalam perumusan lingkup masalah dan batasan sistem disimpan pada Google Drive dan folder lokal assets sebagai bukti autentik:
-
-| No | Jenis Bukti | Tautan |
-|:---:|---|---|
-| 1 | **Foto Dokumentasi Diskusi Tim (Problem Framing & Scope)** | (https://drive.google.com/file/d/19rnISSlrCiLKP37QYFv9CBwdRUbRdj2H/view?usp=sharing) |
