@@ -13,9 +13,10 @@
 ### **1. Identifikasi Kelompok & Rotasi Kepemimpinan**
 
 * **Nama Kelompok**: Syncore Team
-* **Objek UMKM Mitra**: Temu Tempo kopi
+* **Objek UMKM Mitra**: Temu Tempo Kopi
 * **Phase Lead 3 (Define)**: Satria Ariya Prathama (Mahasiswa C)
 * **Anggota Tim**: 1. Muhammad Rasikh Zakki Aufa, 2. Ananta Rizqi Fadhlurrohman, 3. Muhammad Dhiyauddin Nur, 4. Alfin Farrel Gennaro
+
 ---
 
 ### **2. Landasan Konseptual: Analisis Sistem "What" vs "How"**
@@ -34,21 +35,21 @@ Petakan minimal 3 User Story Utama yang langsung menjawab akar masalah pada D1 /
 
 #### **User Story 1 (Prioritas Utama / Rekapitulasi Otomatis)**
 
-* **Sebagai (As a)**: Pemilik Temu Tempo Coffe(Mas joy) (misal: Kasir Toko Kelontong)
-* **Saya ingin (I want to)**: Mengunggah rekap data transaksi harian dari aplikasi kasir ke spreadsheet dalam halaman transaksi agar di rekapitulisai secara otomatis tanpa rumus manual excel. (misal: mencatat transaksi penjualan dengan memilih barang dari daftar dan menghitung total otomatis)
-* **Sehingga (So that)**: Dalam proses rekapitulasi dapat dilakukan lebih cepat dan mengurangi potensi terjadinya kesalahan dalam menghitung margin. (misal: waktu transaksi berkurang dan tidak terjadi kesalahan hitung uang kembalian)
+* **Sebagai (As a)**: Pemilik Temu Tempo Kopi (Mas Joy)
+* **Saya ingin (I want to)**: Memindahkan atau mengimpor data transaksi mingguan dari aplikasi kasir ke dalam sistem pengolah data agar direkapitulasi secara otomatis tanpa rumus manual di Excel.
+* **Sehingga (So that)**: Proses rekapitulasi dapat diselesaikan lebih cepat (menghemat waktu libur), akurat, dan meminimalkan potensi kesalahan hitung margin maupun transaksi yang terlewat.
 
 #### **User Story 2 (Pemisahan Kas Usaha vs Kas Pribadi)**
 
-* **Sebagai (As a)**: Pemilik Temu Tempo Coffe(Mas joy) (misal: Pemilik Usaha UMKM)
-* **Saya ingin (I want to)**: Fasilitas untuk mencatat dan memisahkan keuangan bisnis dengan pribasi sebagai prive. (misal: melihat jumlah stok barang yang tersisa secara real-time dan mendapatkan peringatan stok menipis)
-* **Sehingga (So that)**: Arus kas usaha dapat dipantau secara akurat. (misal: saya dapat melakukan pemesanan ulang barang tepat waktu sebelum stok habis)
+* **Sebagai (As a)**: Pemilik Temu Tempo Kopi (Mas Joy)
+* **Saya ingin (I want to)**: Fitur pencatatan khusus untuk memisahkan pengeluaran operasional kedai dengan penarikan dana pribadi pemilik (prive).
+* **Sehingga (So that)**: Arus kas operasional kedai dan saldo kas fisik di laci dapat dipantau secara akurat tanpa tercampur kebutuhan pribadi.
 
-#### **User Story 3 (Visualisai grafik dalam evaluasi)**
+#### **User Story 3 (Visualisasi Grafik dalam Evaluasi)**
 
-* **Sebagai (As a)**: Pemilik Temu Tempo Coffe(Mas joy) (misal: Pemilik Usaha UMKM)
-* **Saya ingin (I want to)**: Melihat kondisi usaha dalam bentuk grafik/chart juga ringkas. (misal: melihat ringkasan total pendapatan harian dan daftar 3 barang terlaris)
-* **Sehingga (So that)**: Evaluasi jauh lebih mudah dilakukan dan dapat melihat kondisi bisnis hanya dengan melihat grafik tanpa banyak angka. (misal: saya tidak perlu menghitung nota fisik secara manual selama 1.5 jam setiap malam)
+* **Sebagai (As a)**: Pemilik Temu Tempo Kopi (Mas Joy)
+* **Saya ingin (I want to)**: Melihat ringkasan performa penjualan kedai dalam bentuk grafik visual yang ringkas dan mudah dipahami.
+* **Sehingga (So that)**: Evaluasi bisnis mingguan dapat dilakukan dengan cepat untuk melihat tren omzet serta perbandingan menu yang paling laris vs kurang bergerak tanpa harus membaca tabel angka mentah.
 
 ---
 
@@ -58,22 +59,22 @@ Susun kriteria penerimaan terstruktur untuk User Story 1 (mencakup Skenario Suks
 
 #### **Skenario 1A: Transaksi Penjualan Berhasil (Happy Path)**
 
-* **Diberikan (Given)**: Pemilik memiliki file data transaksi yang valid dalam aplikasi kasir. (misal: Kasir berada di layar utama transaksi dan stok produk "Teguk Boba" tersedia sebanyak 10 unit)
-* **Ketika (When)**: Pemilik men-drag file data transaksi ke spreadsheat dalam halaman transaksi (misal: Kasir memasukkan jumlah pesanan 2 unit dan mengklik tombol bayar dengan nominal pas)
-* **Maka (Then)**: Sistem merekap secara otomatis dan menampilkan keuntungan, total omzet, dan status 'Rekapitulasi Berhasil'.(misal: Sistem menampilkan bukti transaksi sukses, menghitung kembalian Rp 0, dan mengurangi stok otomatis menjadi 8 unit)
+* **Diberikan (Given)**: Pemilik memiliki file ekspor data transaksi yang valid dari aplikasi kasir.
+* **Ketika (When)**: Pemilik memindahkan (mengunggah/mengimpor) file data transaksi tersebut ke dalam halaman sistem rekapitulasi.
+* **Maka (Then)**: Sistem merekap secara otomatis dan menampilkan total omzet, rincian pembayaran (Tunai vs QRIS), margin keuntungan, serta status "Rekapitulasi Berhasil".
 
-#### **Skenario 1B: Penanganan Pembayaran Kurang / Eror (Exception Path)**
+#### **Skenario 1B: Penanganan Berkas Rusak / Eror (Exception Path)**
 
-* **Diberikan (Given)**: File data transaksi rusak, salah format, atau kosong. (misal: Total belanja transaksi adalah Rp 35.000)
-* **Ketika (When)**: Pemilik selesai men-drag file transaksi dari aplikasi kasir dan data transaksi tercatat di colom sheet. (misal: Kasir memasukkan nominal pembayaran Rp 30.000)
-* **Maka (Then)**:Sistem menolak proses, menampilkan pesan 'VALUE' dalam colom sheet, dan tidak merusak data yang sudah ada. (misal: Sistem menolak transaksi, menampilkan pesan eror "Nominal pembayaran kurang Rp 5.000", dan stok barang tidak berkurang)
+* **Diberikan (Given)**: File data transaksi rusak, salah format (bukan format standar ekspor kasir), atau datanya kosong.
+* **Ketika (When)**: Pemilik mencoba memindahkan (mengunggah/mengimpor) file data transaksi tersebut ke dalam sistem.
+* **Maka (Then)**: Sistem menolak proses, menampilkan pesan peringatan bahwa format data tidak valid, dan tidak merusak data rekapitulasi yang sudah ada sebelumnya.
 
 ---
 
 ### **5. Workspace C: Catatan Validasi Kebutuhan dengan Mitra (Field Confirmation)**
 
-* **Tanggal Validasi**: 21 Oktober 2026 | Narahubung: Mas Joy (Pemilik)
-* **Narahubung Mitra**: Pemilik (Pemilik / Staf Kasir)
+* **Tanggal Validasi**: 26 Oktober 2026 (Terjadwal) | Narahubung: Mas Joy (Pemilik)
+* **Narahubung Mitra**: Mas Joy (Pemilik)
 * **Hasil Konfirmasi User Story**:
   - [ ] Seluruh User Story disetujui mitra
   - [ ] Terdapat penyesuaian/revisi kebutuhan (Tuliskan revisi jika ada):
@@ -83,14 +84,14 @@ Susun kriteria penerimaan terstruktur untuk User Story 1 (mencakup Skenario Suks
 
 ### **6. Verifikasi Integritas AI (TPL-07) & Pengesahan**
 
-**Penggunaan AI Co-pilot:
-Apakah tim menggunakan AI untuk membantu merumuskan skenario Given-When-Then? [ ] Ya  [ ] Tidak
-(Jika Ya, wajib melampirkan formulir TPL-07: AI Usage Disclosure & Verification Note).**
+**Penggunaan AI Co-pilot:**
+Apakah tim menggunakan AI untuk membantu merumuskan skenario Given-When-Then? [ ] Ya  [x] Tidak  
+*(Jika Ya, wajib melampirkan formulir TPL-07: AI Usage Disclosure & Verification Note).*
 
 Tanda Tangan Tim & Pengesahan Dosen:
 
 ```text
-Phase Lead 3: _______________________ (Tanggal: __________)
+Phase Lead 3: Satria Ariya Prathama (Tanggal: 26 Oktober 2026)
 ```
 ```text
 Dosen Coach: _______________________ (Tanggal: __________)  [ ] Approved
