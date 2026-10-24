@@ -21,7 +21,7 @@
 
 - **Masalah utama**: Terjadinya pemborosan waktu istirahat pemilik di hari libur Minggu akibat proses rekapitulasi data penjualan manual di Microsoft Excel tanpa formula otomatis, diperparah pencatatan keuangan yang masih mencampur kas operasional usaha dengan pengeluaran pribadi sebagai prive serta tidak adanya visualisasi tren penjualan produk.
 - **Pihak yang terdampak**: Pemilik usaha (Mas Joy) kehilangan waktu istirahat pada hari libur operasional, kesulitan memantau profit bersih aktual usaha dengan akurat, serta lambat dalam proses evaluasi.
-- **Frekuensi / keparahan**: Terjadi rutin setiap hari Minggu saat kedai libur (menyita waktu ± 1 jam istirahat). Potensi salah pencatatan atau salah klik varian kasir berkisar 1–2 kali per minggu saat kedai ramai.
+- **Frekuensi / keparahan**: Terjadi rutin setiap hari Minggu saat kedai libur (menyita waktu ± 1 jam istirahat), serta terdapat risiko 1–2 transaksi yang tidak kerekap atau terlewat per minggu saat kondisi kedai ramai.
 
 ## 3. Batasan Sistem (Scope)
 
@@ -35,7 +35,7 @@
 |---|---|---|---|
 | Durasi Rekapitulasi Mingguan | ± 60 menit (1 jam) setiap hari Minggu | Wawancara Pemilik (Mas Joy) | 12-10-2026 |
 | Durasi Jam Kerja Harian | 17 jam/hari (08.00–01.00 WIB) | Wawancara Pemilik (Mas Joy) | 12-10-2026 |
-| Frekuensi Selisih / Salah Varian | 1–2 kali per minggu saat kedai ramai | Wawancara Pemilik (Mas Joy) | 12-10-2026  |
+| Frekuensi Transaksi Terlewat / Tidak Kerekap | 1–2 transaksi per minggu saat kedai ramai | Wawancara Pemilik (Mas Joy) | 12-10-2026 |
 
 ## 5. Pernyataan Kebutuhan Awal (ringkasan ke D2)
 
