@@ -23,23 +23,23 @@
 
 ## 2. Log Kontribusi (per minggu)
 
-| Minggu | Anggota | Peran di Fase Ini | Kontribusi Utama |
+| Minggu | Anggota | Peran di Fase Ini | Kontribusi Nyata |
 |---|---|---|---|
-| **Minggu 1** *(Discover)* | Ananta Rizqi Fadhlurrohman | Phase Lead 1 & Liaison | Memimpin diskusi awal tim, menulis aturan kelompok di WS01, dan kontak awal ke Mas Joy. |
-| **Minggu 1** *(Discover)* | Muhammad Rasikh Zakki Aufa | Anggota Tim | Ikut membahas pertanyaan awal proyek dan memberi masukan aturan tim. |
-| **Minggu 1** *(Discover)* | Satria Ariya Prathama | Anggota Tim (Lead Define/Design) | Membuat jadwal giliran ketua fase, menyiapkan repositori GitHub, dan mencatat alasan memilih mitra di E4. |
-| **Minggu 1** *(Discover)* | Muhammad Dhiyauddin Nur | Anggota Tim | Membuat daftar pertanyaan yang perlu dicari tahu di kedai kopi untuk WS02. |
-| **Minggu 1** *(Discover)* | Alfin Farrel Gennaro | Anggota Tim | Mencari info dasar soal kedai Temu Tempo Kopi lewat media sosial dan Google Maps. |
-| **Minggu 2** *(Frame)* | Muhammad Rasikh Zakki Aufa | Phase Lead 2 (Frame) | Memimpin fase observasi, membantu menyusun 10 pertanyaan di WS03, dan memimpin diskusi masalah. |
-| **Minggu 2** *(Frame)* | Ananta Rizqi Fadhlurrohman | Petugas Liaison & Pewawancara | Menjadi narahubung ke Mas Joy dan yang memimpin tanya-jawab saat wawancara di kedai. |
-| **Minggu 2** *(Frame)* | Satria Ariya Prathama | Anggota Tim | Mengamati alur kasir dan jam sibuk, menyusun batasan masalah di WS04, serta merapikan file bukti. |
-| **Minggu 2** *(Frame)* | Muhammad Dhiyauddin Nur | Anggota Tim | Mencatat waktu tunggu pesanan di bar dan menanyakan alur operasional ke Mas Joy. |
-| **Minggu 2** *(Frame)* | Alfin Farrel Gennaro | Anggota Tim | Mengambil foto wawancara dan suasana kedai, serta mencatat fasilitas Wi-Fi dan colokan listrik. |
-| **Minggu 3** *(Define)* | Satria Ariya Prathama | Phase Lead 3 (Define) | Memimpin fase Define, melakukan kunjungan validasi observasi kedua ke kedai (21 Okt), merapikan repositori GitHub, serta menyelaraskan baseline data kuantitatif di WS03 dan WS04. |
-| **Minggu 3** *(Define)* | Muhammad Rasikh Zakki Aufa | Anggota Tim | Mengecek ulang data lapangan WS03 dan memastikan matriks akar masalah di WS04 cocok dengan kondisi nyata mitra. |
-| **Minggu 3** *(Define)* | Ananta Rizqi Fadhlurrohman | Anggota Tim & Liaison | Melakukan wawancara validasi lanjutan bersama Mas Joy (21 Okt), mengurus bukti audio dan dokumen transkrip, serta koordinasi tautan Google Drive. |
-| **Minggu 3** *(Define)* | Muhammad Dhiyauddin Nur | Anggota Tim | Membantu mengetik transkrip wawancara kedua dan mengecek alur fitur rekap. |
-| **Minggu 3** *(Define)* | Alfin Farrel Gennaro | Anggota Tim | Menyiapkan foto dokumentasi kedai untuk dimasukkan ke folder assets. |
+| **Minggu 1** *(Discover)* | **Ananta Rizqi Fadhlurrohman** | Phase Lead 1 & Liaison | Memimpin inisiasi awal kelompok, menyusun norma tim di WS01, menyusun draf pertanyaan WS02, dan menghubungi Mas Joy. |
+| **Minggu 1** *(Discover)* | **Satria Ariya Prathama** | Core Analyst (Lead Define) | Menyiapkan struktur dasar repositori GitHub tim, mempelajari panduan PBL, dan merancang jadwal rotasi kepemimpinan. |
+| **Minggu 1** *(Discover)* | Muhammad Rasikh Zakki Aufa | Anggota Tim | Hadir dalam pertemuan awal tim di Pankof Jogja dan menyepakati norma kerja kelompok. |
+| **Minggu 1** *(Discover)* | Muhammad Dhiyauddin Nur | Anggota Tim | Membantu mencari alternatif nama-nama kedai kopi di sekitar kampus untuk daftar usulan objek studi. |
+| **Minggu 1** *(Discover)* | Alfin Farrel Gennaro | Anggota Tim | Mengecek titik lokasi Temu Tempo Kopi di Google Maps dan melihat akun Instagram kedai. |
+| **Minggu 2** *(Frame)* | **Ananta Rizqi Fadhlurrohman** | Narahubung & Pewawancara Utama | Memimpin tanya-jawab wawancara Observasi 1 (12 Okt), mengurus izin rekaman, dan mendampingi Satria pada diskusi non-formal 14 Okt. |
+| **Minggu 2** *(Frame)* | **Satria Ariya Prathama** | Core Analyst & Reviewer | Mengamati alur kerja kasir dan bar saat jam ramai, melakukan diskusi non-formal 14 Okt bersama Mas Joy & Ananta, serta merancang batasan sistem di WS04. |
+| **Minggu 2** *(Frame)* | Muhammad Rasikh Zakki Aufa | Phase Lead 2 (Frame) | Hadir mendampingi kunjungan Observasi 1 (12 Okt) dan menanyakan alur pencatatan kasir ke Mas Joy. |
+| **Minggu 2** *(Frame)* | Muhammad Dhiyauddin Nur | Anggota Tim | Hadir saat kunjungan Observasi 1 dan menanyakan waktu penyajian kopi serta pasokan biji kopi ke Mas Joy. |
+| **Minggu 2** *(Frame)* | Alfin Farrel Gennaro | Dokumentator Lapangan | Mengambil foto dokumentasi saat wawancara di kedai dan mencatat fasilitas fisik (Wi-Fi, colokan listrik). |
+| **Minggu 3** *(Define)* | **Satria Ariya Prathama** | Phase Lead 3 (System Architect) | Mengambil alih kepemimpinan fase Define, mengaudit repositori dan bukti sesuai arahan dosen, memimpin kunjungan validasi Observasi 2 (21 Okt), merekonstruksi dokumen WS03–WS04, dan menyusun dokumen Deliverable D1. |
+| **Minggu 3** *(Define)* | **Ananta Rizqi Fadhlurrohman** | Liaison & Core Contributor | Menyelesaikan pengetikan transkrip manual Observasi 1, mendampingi Satria merekam Observasi 2 (21 Okt), dan mengelola Google Drive tim. |
+| **Minggu 3** *(Define)* | Muhammad Rasikh Zakki Aufa | Penanggung Jawab Bukti & Aset | Mengambil foto dokumentasi diskusi validasi tim (21 Okt) dan membantu mengumpulkan file bukti untuk folder starter-pack/assets/. |
+| **Minggu 3** *(Define)* | Muhammad Dhiyauddin Nur | Anggota Tim | Membantu membaca ulang teks transkrip wawancara untuk mencocokkan ejaan nama menu kedai. |
+| **Minggu 3** *(Define)* | Alfin Farrel Gennaro | Anggota Tim | Membantu menyimpan dan mencadangkan file-file foto dokumentasi kedai di penyimpanan tim. |
 
 ---
 
