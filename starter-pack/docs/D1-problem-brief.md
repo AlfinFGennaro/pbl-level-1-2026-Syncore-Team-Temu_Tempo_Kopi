@@ -1,7 +1,7 @@
 # D1 — Problem Brief
 
 **Project**: Digital Problem Framing Mini Project — Temu Tempo Kopi
-**Tim**: Satria Ariya Prathama, Ananta Rizqi Fadhlurrohman, Muhammad Rasikh Zakki Aufa, Muhammad Dhiyauddin Nur, Alfin Farrel Gennaro | **Tanggal**: 22-10-2026 | **Versi**: [v1.0]
+**Tim**: Satria Ariya Prathama, Ananta Rizqi Fadhlurrohman, Muhammad Rasikh Zakki Aufa, Muhammad Dhiyauddin Nur, Alfin Farrel Gennaro | **Tanggal**: 22-10-2026 | **Versi**: v1.0
 **Template**: TPL-01
 
 > **Petunjuk**: Hapus teks dalam `[...]` dan huruf miring setelah diisi.
@@ -20,13 +20,13 @@
 ## 2. Deskripsi Masalah Utama
 
 - **Masalah utama**: Terjadinya pemborosan waktu istirahat pemilik di hari libur Minggu akibat proses rekapitulasi data penjualan manual di Microsoft Excel tanpa formula otomatis, diperparah pencatatan keuangan yang masih mencampur kas operasional usaha dengan pengeluaran pribadi sebagai prive serta tidak adanya visualisasi tren penjualan produk.
-- **Pihak yang terdampak**: Pemilik usaha (Mas Joy) kehilangan waktu istirahat pada hari libur operasional, kesulitan memantau profit bersih aktual usaha sengan akurat, serta lambat dalam proses evaluasi.
+- **Pihak yang terdampak**: Pemilik usaha (Mas Joy) kehilangan waktu istirahat pada hari libur operasional, kesulitan memantau profit bersih aktual usaha dengan akurat, serta lambat dalam proses evaluasi.
 - **Frekuensi / keparahan**: Terjadi rutin setiap hari Minggu saat kedai libur (menyita waktu ± 1 jam istirahat). Potensi salah pencatatan atau salah klik varian kasir berkisar 1–2 kali per minggu saat kedai ramai.
 
 ## 3. Batasan Sistem (Scope)
 
-- **Diselesaikan dalam proyek ini**: Automatisai rekapitulasi data transaksi penjualan mingguan dari file csv kasir, Modul pemisahan pencatatan kas operasional bisnis dengan pengeluaran pribadi pemilik sebagai prive, Dasbor evaluasi bisnis otomatis (grafik pemasukan vs pengeluaran, tren penjualan mingguan, DLL) yang otomatis ter update setelah data transaksi diimpor.
-- **Tidak diselesaikan (dan alasan)**: Pembuatan aplikasi kasir (POS) baru: Proses pembuatan yang cukup rumit dan memakan waktu lama, Otomasi pemesanan stok ke supplier: Pasokan biji kopi dibeli putus secara mandiri ke Bumijo saat stok fisik menipis., Integrasi payment gateway / QRIS perbankan otomatis: Memerlukan biaya registrasi perbankan dan izin pihak ketiga yang terlalu rumit untuk proyek mini project semester 1.
+- **Diselesaikan dalam proyek ini**: Otomatisasi rekapitulasi data transaksi penjualan mingguan dari file csv kasir, Modul pemisahan pencatatan kas operasional bisnis dengan pengeluaran pribadi pemilik sebagai prive, Dasbor evaluasi bisnis otomatis (grafik pemasukan vs pengeluaran, tren penjualan mingguan, dll.) yang otomatis ter-update setelah data transaksi diimpor.
+- **Tidak diselesaikan (dan alasan)**: Pembuatan aplikasi kasir (POS) baru: Proses pembuatan yang cukup rumit dan memakan waktu lama, Otomasi pemesanan stok ke supplier: Pasokan biji kopi dibeli putus secara mandiri ke Bumijo saat stok fisik menipis, Integrasi payment gateway / QRIS perbankan otomatis: Memerlukan biaya registrasi perbankan dan izin pihak ketiga yang terlalu rumit untuk proyek mini project semester 1.
 - **Asumsi yang dipakai**: Data transaksi dari aplikasi kasir Pemilik dapat diekspor atau dipindahkan ke spreadsheet dalam format file CSV atau teks.
 
 ## 4. Data Kuantitatif Pendukung
@@ -39,7 +39,7 @@
 
 ## 5. Pernyataan Kebutuhan Awal (ringkasan ke D2)
 
-- Kebutuhan inti yang akan dijawab prototipe: [3–5 butir]
+- Kebutuhan inti yang akan dijawab prototipe:
 1. Modul input dan perhitungan rekapitulasi penjualan otomatis dari file csv kasir tanpa kalkulasi manual di Excel.
 2. Modul pencatatan buku kas operasional kedai dengan pencatatan khusus penarikan dana pribadi pemilik (prive).
 3. Dasbor grafik visual untuk memantau performa arus kas (masuk vs keluar), tren omzet, dan evaluasi.
@@ -53,4 +53,4 @@
 
 ---
 
-**Status**: ⬜ Draf → ⬜ Review Tim → ⬜ Validasi Pemilik → ⬜ Final (Gate 1)
+**Status**: ☑️ Draf → ⬜ Review Tim → ⬜ Validasi Pemilik → ⬜ Final (Gate 1)
