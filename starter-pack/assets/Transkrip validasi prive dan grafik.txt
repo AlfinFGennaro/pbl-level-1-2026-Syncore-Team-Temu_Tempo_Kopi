@@ -1,0 +1,54 @@
+Satria
+"Oke."
+
+
+Mas Joy
+"Heeh."
+
+
+Satria
+"Oke Mas Joy. Jadi gini, kita kan sempat dua kali observasi ke sini ya."
+
+
+Mas Joy
+"Iya."
+
+
+Satria
+"Nah, kalau saya lihat transkrip dari observasi itu, ternyata kita masih kurang punya bukti yang kuat mengenai *miss* pencatatan transaksi pribadi dan kebutuhan operasional bisnis."
+
+
+Mas Joy
+"Heeh."
+
+
+Satria
+"Jadi saya mau validasi ulang nih, kalau misalnya memang bener ya, terkadang ada *miss* atau ada... ya ada *miss* pada saat rekapitulasi dikarenakan uang bisnis itu dipakai untuk kebutuhan pribadi. Betul ya?"
+
+
+Mas Joy
+"Iya."
+
+
+Satria
+"Betul ya?"
+
+
+Mas Joy
+"Heeh."
+
+
+Satria
+"Dan yang kedua, mengenai grafik, visualisasi *chart*. Jadi bener ya, berarti di Excel itu cuman data angka mentah yang emang tulisan dan dalam bentuk angka aja ya tanpa adanya grafik *chart*. Nggak ada berarti, betul ya?"
+
+
+Mas Joy
+"Grafik? Iya, nggak ada."
+
+
+Satria
+"Oke, cukup itu aja paling yang saya validasi. Makasih ya Mas ya."
+
+
+Mas Joy
+"Oke, sip."
